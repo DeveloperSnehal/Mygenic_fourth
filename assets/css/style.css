@@ -3982,7 +3982,7 @@ input[type=radio] {
   position: relative;
   padding-top: 88px;
   padding-bottom: 50px;
-  background-color: #0d0e43;
+  background-color: #048a9a;
 }
 .footer .footer-primary:after {
   content: "";
@@ -3997,7 +3997,7 @@ input[type=radio] {
 }
 .footer .footer-secondary {
   position: relative;
-  padding: 46px 0;
+  padding: 25px 0;
   background-color: #ffffff;
 }
 .footer .footer-secondary:after {
@@ -4083,7 +4083,7 @@ input[type=radio] {
 }
 .footer .footer-widget-time {
   padding: 40px;
-  background-color: #0a0a32;
+  background-color: #fff;
 }
 
 /* Scroll Top Button */

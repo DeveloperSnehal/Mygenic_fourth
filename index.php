@@ -16,15 +16,6 @@
                   <h2 class="slide-title">Large Selections Of Medical Products</h2>
                   <p class="slide-desc">We are continually harnessing our medical expertise to build best test offering
                     while investing in technology to transform the delivery of health care.</p>
-                  <div class="d-flex flex-wrap align-items-center justify-content-center">
-                    <a href="tests-book-visit.html" class="btn btn-secondary mx-2">
-                      <span>Book a Home Visit</span>
-                      <i class="icon-arrow-right"></i>
-                    </a>
-                    <a href="supplies.html" class="btn btn-white btn-white-style2 mx-2">
-                      <span>Shop Now</span>
-                    </a>
-                  </div>
                 </div><!-- /.slide-content -->
               </div><!-- /.col-xl-7 -->
             </div><!-- /.row -->
@@ -40,15 +31,6 @@
                   <h2 class="slide-title">Medical Supplies <br> And Equipment</h2>
                   <p class="slide-desc">We are continually harnessing our medical expertise to build best test offering
                     while investing in technology to transform the delivery of health care.</p>
-                  <div class="d-flex flex-wrap align-items-center justify-content-center">
-                    <a href="tests-book-visit.html" class="btn btn-secondary mx-2">
-                      <span>Book a Home Visit</span>
-                      <i class="icon-arrow-right"></i>
-                    </a>
-                    <a href="supplies.html" class="btn btn-white btn-white-style2 mx-2">
-                      <span>Shop Now</span>
-                    </a>
-                  </div>
                 </div><!-- /.slide-content -->
               </div><!-- /.col-xl-7 -->
             </div><!-- /.row -->

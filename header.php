@@ -103,9 +103,7 @@
             </ul><!-- /.navbar-nav -->
             <ul class="header-actions d-flex align-items-center position-relative list-unstyled mb-0">
               <li>
-                <a href="tests-book-visit.html" class="btn btn-secondary btn-contact">
-                  Book a Lab Visit
-                </a>
+                <a href="#" class="btn btn-secondary btn-contact"> Quick Contacts</a>
               </li>
             </ul>
             <button class="close-mobile-menu d-block d-lg-none"><i class="fas fa-times"></i></button>

@@ -6,6 +6,46 @@
       <div class="footer-primary">
         <div class="container">
           <div class="row">
+          <div class="col-sm-6 col-md-6 col-lg-4">
+              <div class="footer-widget-time">
+                <h6 class="footer-widget-title" style="color: #ed6f1e;">MyGenic Healthcare Private Limited</h6>
+                 <h3 class="testimonial-title">The team at MyGenic Healthcare responded quickly to an urgent project request. Our project timelines were jeopardized by an unforeseen issue with another vendor and MyGenic came to the rescue.</h3>
+                <div class="d-flex align-items-center">
+                  <a href="#" class="btn btn-primary btn-block">
+                    <span>Read More</span> <i class="icon-arrow-right"></i>
+                  </a>
+                </div>
+              </div><!-- /.footer-widget-time -->
+            </div><!-- /.col-lg-2 -->
+            <div class="col-sm-6 col-md-6 col-lg-2">
+              <div class="footer-widget-nav">
+                <h6 class="footer-widget-title">Our Company</h6>
+                <nav>
+                  <ul class="list-unstyled">
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Our Products</a></li>
+                    <li><a href="#">How We Do?</a></li>
+                    <li><a href="#"></a></li>
+                    <li><a href="#">Contact Us</a></li>
+                  </ul>
+                </nav>
+              </div><!-- /.footer-widget-content -->
+            </div><!-- /.col-lg-2 -->
+            <div class="col-sm-6 col-md-6 col-lg-3">
+              <div class="footer-widget-nav">
+                <h6 class="footer-widget-title">Our Services</h6>
+                <nav>
+                  <ul class="list-unstyled">
+                    <li><a href="#">Contract Manufacturer</a></li>
+                    <li><a href="#">Third Party Pharma Manufacturer</a></li>
+                    <li><a href="#">Quality Medicine Supplier</a></li>
+                    <li><a href="#">Leading Pharmaceutical Exporter</a></li>
+                    <li><a href="#">Research And Development</a></li>
+                  </ul>
+                </nav>
+              </div><!-- /.footer-widget-content -->
+            </div><!-- /.col-lg-2 -->
             <div class="col-sm-12 col-md-12 col-lg-3">
               <div class="footer-widget-contact">
                 <h6 class="footer-widget-title">Quick Contacts</h6>
@@ -13,86 +53,21 @@
                 <ul class="contact-list list-unstyled">
                   <li>
                     <a href="mailto:provetta@7oroof.com">
-                      <i class="contact-icon icon-email"></i> <span>provetta@7oroof.com</span>
+                      <i class="contact-icon icon-email"></i> <span>info@mygenichealthcare.com</span>
                     </a>
                   </li>
                   <li>
                     <a href="tel:00201061245741">
-                      <i class="contact-icon icon-phone"></i> <span>(002) 01061245741</span>
+                      <i class="contact-icon icon-phone"></i> <span>+91 9867592446</span>
                     </a>
                   </li>
                 </ul>
-                <p>2307 Beverley Rd Brooklyn, New York 11226 United States.</p>
-                <a href="contact-us.html" class="btn btn-white btn-link mr-30">
+                <p>Office No- 2 Plot No- 98, Sector 35 Dolphin Platinum Kamothe, Navi Mumbai, Maharashtra, India</p>
+                <a href="contact.php" class="btn-white mr-30" style="color: #ffffff; background-color: #ed6f1e; padding: 5px;">
                   <i class="fas fa-map-marker-alt"></i> <span>Get Directions</span>
                 </a>
               </div>
             </div><!-- /.col-xl-2 -->
-            <div class="col-sm-6 col-md-6 col-lg-2">
-              <div class="footer-widget-nav">
-                <h6 class="footer-widget-title">About Us</h6>
-                <nav>
-                  <ul class="list-unstyled">
-                    <li><a href="about-us.html">About Us</a></li>
-                    <li><a href="team.html">Leadership Team</a></li>
-                    <li><a href="blog.html">News & Media</a></li>
-                    <li><a href="services.html">Sustainability</a></li>
-                    <li><a href="careers.html">Careers</a></li>
-                  </ul>
-                </nav>
-              </div><!-- /.footer-widget-content -->
-            </div><!-- /.col-lg-2 -->
-            <div class="col-sm-6 col-md-6 col-lg-2">
-              <div class="footer-widget-nav">
-                <h6 class="footer-widget-title">Tests & Services</h6>
-                <nav>
-                  <ul class="list-unstyled">
-                    <li><a href="#">General Diagnostic Tests</a></li>
-                    <li><a href="#"> Specialized Genetic Tests</a></li>
-                    <li><a href="#"> Food Sensitivity Tests</a></li>
-                    <li><a href="#">Genova Diagnostics </a></li>
-                    <li><a href="#">Hormone Insights Tests</a></li>
-                    <li><a href="#">Naturopathic Tests</a></li>
-                  </ul>
-                </nav>
-              </div><!-- /.footer-widget-content -->
-            </div><!-- /.col-lg-2 -->
-            <div class="col-sm-6 col-md-6 col-lg-2">
-              <div class="footer-widget-nav">
-                <h6 class="footer-widget-title">Links</h6>
-                <nav>
-                  <ul class="list-unstyled">
-                    <li><a href="#">Knowledge base</a></li>
-                    <li><a href="#">Report a Vulnerability</a></li>
-                    <li><a href="#">Suppliers & Vendors</a></li>
-                    <li><a href="#">Genova Diagnostics </a></li>
-                    <li><a href="#">Terms & Conditions</a></li>
-                    <li><a href="#">Contact us</a></li>
-                  </ul>
-                </nav>
-              </div><!-- /.footer-widget-content -->
-            </div><!-- /.col-lg-2 -->
-            <div class="col-sm-6 col-md-6 col-lg-3">
-              <div class="footer-widget-time">
-                <h6 class="footer-widget-title">Working Hours</h6>
-                <ul class="time-list list-unstyled">
-                  <li>
-                    <span class="day">Week Days</span><span class="time">09.00 - 24:00</span>
-                  </li>
-                  <li>
-                    <span class="day">Saturday</span><span class="time">08:00 - 03.00</span>
-                  </li>
-                  <li>
-                    <span class="day">Sunday</span><span class="time">Day off</span>
-                  </li>
-                </ul>
-                <div class="d-flex align-items-center">
-                  <a href="contact-us.html" class="btn btn-primary btn-block">
-                    <span>Book Your Visit</span> <i class="icon-arrow-right"></i>
-                  </a>
-                </div>
-              </div><!-- /.footer-widget-time -->
-            </div><!-- /.col-lg-2 -->
           </div><!-- /.row -->
         </div><!-- /.container -->
       </div><!-- /.footer-primary -->
@@ -106,17 +81,9 @@
                 <li><a href="#"><i class="fab fa-twitter"></i></a></li>
               </ul><!-- /.social-icons -->
               <div>
-                <nav>
-                  <ul class="list-unstyled footer-copyright-links d-flex flex-wrap mb-0">
-                    <li><a href="#">Privacy Statement</a></li>
-                    <li><a href="#">Terms of Use</a></li>
-                    <li><a href="#">Notice of Nondiscrimination</a></li>
-                    <li><a href="#">Report a Vulnerability</a></li>
-                  </ul>
-                </nav>
                 <div class="mt-1">
-                  <span>&copy; 2020 DataSoft, All Rights Reserved. With Love by</span>
-                  <a class="color-secondary" href="http://themeforest.net/user/7oroof">7oroof.com</a>
+                  <span>&copy; 2023 MyGenic Healthcare Pvt Ltd, All Rights Reserved. With Love by</span>
+                  <a class="color-secondary" href="https://www.creativemarque.com/">Creativemarque</a>
                 </div>
               </div>
             </div><!-- /.col-lg-6 -->
