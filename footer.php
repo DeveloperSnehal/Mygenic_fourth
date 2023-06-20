@@ -24,7 +24,7 @@
                   <ul class="list-unstyled">
                     <li><a href="index.php">Home</a></li>
                     <li><a href="about-us.php">About Us</a></li>
-                    <li><a href="#">Our Products</a></li>
+                    <li><a href="product.php">Our Products</a></li>
                     <li><a href="#">How We Do?</a></li>
                     <li><a href="#"></a></li>
                     <li><a href="contact.php">Contact Us</a></li>

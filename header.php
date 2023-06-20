@@ -71,7 +71,7 @@
                 <a href="about-us.php" class="nav-item-link">About Us</a>
               </li><!-- /.nav-item -->
               <li class="nav-item">
-                <a href="#" class="nav-item-link">Our Products</a>
+                <a href="product.php" class="nav-item-link">Our Products</a>
               </li><!-- /.nav-item -->
               <li class="nav-item has-dropdown">
                 <a href="#" data-toggle="dropdown" class="dropdown-toggle nav-item-link">Services</a>
