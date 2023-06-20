@@ -27,7 +27,7 @@
                     <li><a href="#">Our Products</a></li>
                     <li><a href="#">How We Do?</a></li>
                     <li><a href="#"></a></li>
-                    <li><a href="#">Contact Us</a></li>
+                    <li><a href="contact.php">Contact Us</a></li>
                   </ul>
                 </nav>
               </div><!-- /.footer-widget-content -->

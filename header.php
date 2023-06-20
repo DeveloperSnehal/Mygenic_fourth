@@ -97,7 +97,7 @@
                 <a href="#" class="nav-item-link">How We Do?</a>
               </li><!-- /.nav-item -->
               <li class="nav-item">
-                <a href="contact-us.html" class="nav-item-link">Contacts</a>
+                <a href="contact.php" class="nav-item-link">Contacts</a>
               </li><!-- /.nav-item -->
 
             </ul><!-- /.navbar-nav -->
