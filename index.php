@@ -57,434 +57,367 @@
       </div><!-- /.carousel -->
     </section><!-- /.slider -->
 
-    <!-- ========================
-       shop
+
+        <!-- ========================
+        Services Layout 6
     =========================== -->
-    <section class="shop pt-120 pb-70">
+    <section class="services-layout6 pb-0">
       <div class="container">
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-6 offset-lg-3">
-            <div class="heading text-center mb-50">
-              <h2 class="heading-subtitle">Low Priced Medical Supplies</h2>
-              <h3 class="heading-title">The Largest Selections Of <br>
-                Medical Products</h3>
+            <div class="heading-layout2 text-center mb-50">
+              <h3 class="heading-title">What We <span style="color:#ed6f1e;">Provide</span></h3>
             </div>
           </div><!-- /.col-lg-6 -->
         </div><!-- /.row -->
         <div class="row">
-          <!-- Product item #1 -->
-          <div class="col-sm-6 col-md-6 col-lg-3">
-            <div class="product-item">
-              <div class="product-img">
-                <img src="assets/images/products/1.jpg" alt="Product" loading="lazy">
-                <div class="product-action">
-                  <a href="#" class="btn btn-secondary">
-                    <i class="icon-cart"></i> <span>Add To Cart</span>
+          <div class="col-12">
+            <div class="slick-carousel"
+              data-slick='{"slidesToShow": 3, "slidesToScroll": 1, "autoplay": true, "arrows": false, "dots": true, "responsive": [ {"breakpoint": 1100, "settings": {"slidesToShow": 2}},{"breakpoint": 992, "settings": {"slidesToShow": 1}}, {"breakpoint": 767, "settings": {"slidesToShow": 1}}, {"breakpoint": 480, "settings": {"slidesToShow": 1}}]}'>
+              <!-- service item #1 -->
+              <div class="service-item">
+                <div class="service-body">
+                  <div class="service-icon">
+                    <i class="icon-bi bi-gear-wide-connected icon-item"></i>
+                    <i class="icon-bi bi-gear-wide-connected icon-item"></i>
+                  </div>
+                  <h4 class="service-title">
+                    <a href="tests-single-test.html">Manufacturing</a>
+                  </h4>
+                  <p class="service-desc">MyGenic Healthcare Private Limited may manufacture a range of pharmaceutical products including tablets, injections, and anti-cancer capsules.</p>
+                  <a href="tests-single-test.html" class="btn btn-primary">
+                    <span>Explore More</span>
+                    <i class="icon-arrow-right"></i>
                   </a>
-                </div><!-- /.product-action -->
-              </div><!-- /.product-img -->
-              <div class="product-info">
-                <h4 class="product-title"><a href="supplies-single.html">Calming Herps</a></h4>
-                <span class="product-price">$18.99</span>
-              </div><!-- /.product-content -->
-            </div><!-- /.product-item -->
-          </div><!-- /.col-lg-3 -->
-          <!-- Product item #2 -->
-          <div class="col-sm-6 col-md-6 col-lg-3">
-            <div class="product-item">
-              <div class="product-img">
-                <img src="assets/images/products/2.jpg" alt="Product" loading="lazy">
-                <div class="product-action">
-                  <a href="#" class="btn btn-secondary">
-                    <i class="icon-cart"></i> <span>Add To Cart</span>
+                </div><!-- /.service-body -->
+              </div><!-- /.service-item -->
+              <!-- service item #2 -->
+              <div class="service-item">
+                <div class="service-body">
+                  <div class="service-icon">
+                    <i class="icon-bi bi-globe icon-item"></i>
+                    <i class="icon-bi bi-globe icon-item"></i>
+                  </div>
+                  <h4 class="service-title">
+                    <a href="tests-single-test.html">Exporting</a>
+                  </h4>
+                  <p class="service-desc">By developing effective processes and partnerships, the company can efficiently export their pharmaceutical products to a range of global markets. </p>
+                  <a href="tests-single-test.html" class="btn btn-primary">
+                    <span>Explore More</span>
+                    <i class="icon-arrow-right"></i>
                   </a>
-                </div><!-- /.product-action -->
-              </div><!-- /.product-img -->
-              <div class="product-info">
-                <h4 class="product-title"><a href="supplies-single.html">Biotin Complex</a></h4>
-                <span class="product-price">$12,99</span>
-              </div><!-- /.product-content -->
-            </div><!-- /.product-item -->
-          </div><!-- /.col-lg-3 -->
-          <!-- Product item #3 -->
-          <div class="col-sm-6 col-md-6 col-lg-3">
-            <div class="product-item">
-              <div class="product-img">
-                <img src="assets/images/products/3.jpg" alt="Product" loading="lazy">
-                <div class="product-action">
-                  <a href="#" class="btn btn-secondary">
-                    <i class="icon-cart"></i> <span>Add To Cart</span>
+                </div><!-- /.service-body -->
+              </div><!-- /.service-item -->
+              <!-- service item #3 -->
+              <div class="service-item">
+                <div class="service-body">
+                  <div class="service-icon">
+                    <i class="icon-bi bi-pencil-square icon-item"></i>
+                    <i class="icon-bi bi-pencil-square icon-item"></i>
+                  </div>
+                  <h4 class="service-title">
+                    <a href="tests-single-test.html">Quality Control</a>
+                  </h4>
+                  <p class="service-desc">MyGenic Healthcare Private Limited likely has a quality control system in place to ensure that their products meet industry standards and regulations.</p>
+                  <a href="tests-single-test.html" class="btn btn-primary">
+                    <span>Explore More</span>
+                    <i class="icon-arrow-right"></i>
                   </a>
-                </div><!-- /.product-action -->
-              </div><!-- /.product-img -->
-              <div class="product-info">
-                <h4 class="product-title"><a href="supplies-single.html">Facial Serum</a></h4>
-                <span class="product-price">$19,99</span>
-              </div><!-- /.product-content -->
-            </div><!-- /.product-item -->
-          </div><!-- /.col-lg-3 -->
-          <!-- Product item #4 -->
-          <div class="col-sm-6 col-md-6 col-lg-3">
-            <div class="product-item">
-              <div class="product-img">
-                <img src="assets/images/products/4.jpg" alt="Product" loading="lazy">
-                <div class="product-action">
-                  <a href="#" class="btn btn-secondary">
-                    <i class="icon-cart"></i> <span>Add To Cart</span>
-                  </a>
-                </div><!-- /.product-action -->
-              </div><!-- /.product-img -->
-              <div class="product-info">
-                <h4 class="product-title"><a href="supplies-single.html">Calming Herps</a></h4>
-                <span class="product-price">$33.00</span>
-              </div><!-- /.product-content -->
-            </div><!-- /.product-item -->
-          </div><!-- /.col-lg-3 -->
-          <!-- Product item #5 -->
-          <div class="col-sm-6 col-md-6 col-lg-3">
-            <div class="product-item">
-              <div class="product-img">
-                <img src="assets/images/products/5.jpg" alt="Product" loading="lazy">
-                <div class="product-action">
-                  <a href="#" class="btn btn-secondary">
-                    <i class="icon-cart"></i> <span>Add To Cart</span>
-                  </a>
-                </div><!-- /.product-action -->
-              </div><!-- /.product-img -->
-              <div class="product-info">
-                <h4 class="product-title"><a href="supplies-single.html">Essential Oil</a></h4>
-                <span class="product-price">$63.00</span>
-              </div><!-- /.product-content -->
-            </div><!-- /.product-item -->
-          </div><!-- /.col-lg-3 -->
-          <!-- Product item #6 -->
-          <div class="col-sm-6 col-md-6 col-lg-3">
-            <div class="product-item">
-              <div class="product-img">
-                <img src="assets/images/products/6.jpg" alt="Product" loading="lazy">
-                <div class="product-action">
-                  <a href="#" class="btn btn-secondary">
-                    <i class="icon-cart"></i> <span>Add To Cart</span>
-                  </a>
-                </div><!-- /.product-action -->
-              </div><!-- /.product-img -->
-              <div class="product-info">
-                <h4 class="product-title"><a href="supplies-single.html">Natural Cacao Powder</a></h4>
-                <span class="product-price">$12,99</span>
-              </div><!-- /.product-content -->
-            </div><!-- /.product-item -->
-          </div><!-- /.col-lg-3 -->
-          <!-- Product item #7 -->
-          <div class="col-sm-6 col-md-6 col-lg-3">
-            <div class="product-item">
-              <div class="product-img">
-                <img src="assets/images/products/7.jpg" alt="Product" loading="lazy">
-                <div class="product-action">
-                  <a href="#" class="btn btn-secondary">
-                    <i class="icon-cart"></i> <span>Add To Cart</span>
-                  </a>
-                </div><!-- /.product-action -->
-              </div><!-- /.product-img -->
-              <div class="product-info">
-                <h4 class="product-title"><a href="supplies-single.html">Natural Gel</a></h4>
-                <span class="product-price">$38,00</span>
-              </div><!-- /.product-content -->
-            </div><!-- /.product-item -->
-          </div><!-- /.col-lg-3 -->
-          <!-- Product item #8 -->
-          <div class="col-sm-6 col-md-6 col-lg-3">
-            <div class="product-item">
-              <div class="product-img">
-                <img src="assets/images/products/8.jpg" alt="Product" loading="lazy">
-                <div class="product-action">
-                  <a href="#" class="btn btn-secondary">
-                    <i class="icon-cart"></i> <span>Add To Cart</span>
-                  </a>
-                </div><!-- /.product-action -->
-              </div><!-- /.product-img -->
-              <div class="product-info">
-                <h4 class="product-title"><a href="supplies-single.html">Goji Powder</a></h4>
-                <span class="product-price">$16,00</span>
-              </div><!-- /.product-content -->
-            </div><!-- /.product-item -->
-          </div><!-- /.col-lg-3 -->
+                </div><!-- /.service-body -->
+              </div><!-- /.service-item -->
+            </div><!-- /.slick-carousel -->
+          </div><!-- /.col-12 -->
         </div><!-- /.row -->
       </div><!-- /.container -->
-    </section><!-- /.shop -->
+    </section><!-- /.Services Layout 6 -->
 
-    <!-- ========================
-      FancyBox Layout 3
+
+    <!-- ======================
+       Banner Layout 7
+    ========================= -->
+    <section class="banner-layout7 pt-20 pb-90">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12 col-md-12 col-lg-4 order-2-md">
+            <div class="banner-img"><img src="assets/images/banners/25-Years-of-excellence0-unit_02.png" class="w-100" alt="banner"></div>
+          </div><!-- /.col-lg-4 -->
+          <div class="col-sm-12 col-md-12 col-lg-8 order-1-md">
+            <div class="banner-content">
+              <div class="heading-layout2 mb-50">
+                <h2 class="heading-title">Introduction</h2>
+              </div>
+              <div class="testimonials-layout3">
+                <div class="testimonials-container">
+                    <!-- Testimonial #1 -->
+                    <div class="testimonial-item">
+                      <p>Established at Navi Mumbai (Maharashtra), We,“MyGenic Healthcare Private Limited” are one of the leading Exporter of a premium range of Pharmaceutical Tablets, Pharmaceutical Injection & Anti Cancer Capsules and many more.</p>
+                        <p>MyGenic Healthcare Private Limited is a reputable company that specializes in the production and export of high-quality pharmaceutical products. We are based in Navi Mumbai, Maharashtra, and have gained a strong foothold in the industry through our commitment to providing superior products and services to our clients.</p>
+                        <p>We offer a wide range of pharmaceutical products, including tablets, injections, capsules, and more. Our products are manufactured in state-of-the-art facilities using the latest technology and in strict adherence to industry regulations and quality standards. This ensures that our products are safe, effective, and of the highest quality.</p>
+                        <p>We have experties in pharmaceutical products from 25 years!</p>
+                    </div><!-- /. testimonial-item -->
+                    <!-- Testimonial #2 -->
+                </div><!-- /.testimonials-container -->
+              </div><!-- /.testimonials-layout3 -->
+            </div><!-- /.banner-content -->
+          </div><!-- /.col-lg-7 -->
+        </div><!-- /.row -->
+      </div><!-- /.container -->
+    </section><!-- /.Banner Layout 7 -->
+
+
+        <!-- ========================
+      FancyBox Layout 5
     =========================== -->
-    <section class="fancybox-layout3 bg-overlay bg-overlay-primary-gradient pt-120 pb-110">
+    <section class="fancybox-layout5 bg-overlay bg-overlay-primary-gradient pt-120 pb-110">
       <div class="bg-img"><img src="assets/images/backgrounds/1.jpg" alt="backgrounds"></div>
       <div class="container">
-        <div class="row heading-layout2 heading-light mb-60">
-          <div class="col-12">
-            <h2 class="heading-subtitle">Sets The Standard For High Quality Care Since 1975</h2>
-          </div>
-          <div class="col-sm-12 col-md-12 col-lg-5">
-            <h3 class="heading-title">Unwavering Commitment to Excellence and Quality of our Tests and Results.</h3>
-          </div>
-          <div class="col-sm-12 col-md-12 col-lg-6 offset-lg-1">
-            <p class="heading-desc font-weight-bold mb-20">We process more than 2 million patient specimens per week
-              and
-              help medical professionals and patients make important health decisions. The insights we gain through
-              testing then fuel our drug development practice, by identifying patterns and even individuals who might
-              benefit from enrollment in specific drug trials.</p>
-            <p class="heading-desc mb-30">With the support of our diagnostics capabilities to deliver drug trials that
-              are both reliable and rigorous, we're able to support clinical trial research efforts.
-            </p>
-            <div class="d-flex flex-wrap">
-              <a href="about-us.html" class="btn btn-secondary btn-secondary-style2 mr-30">
-                <span>Values and Culture</span> <i class="icon-arrow-right"></i>
-              </a>
-              <a href="contact-us.html" class="btn btn-light btn-outlined">
-                Prepare for a Test
-              </a>
+        <div class="row">
+          <div class="col-sm-12 col-md-12 col-lg-8 offset-lg-2">
+            <div class="heading-layout2 text-center heading-light mb-50">
+              <h3 class="heading-title">Services We <span style="color:#ed6f1e;">Provide</span></h3>
             </div>
           </div>
         </div>
         <div class="row">
-          <div class="col-12">
-            <div class="carousel-wrapper">
-              <div class="slick-carousel"
-                data-slick='{"slidesToShow": 5, "slidesToScroll": 1, "autoplay": true, "arrows": false, "dots": false, "responsive": [ {"breakpoint": 1100, "settings": {"slidesToShow": 3}},{"breakpoint": 992, "settings": {"slidesToShow": 2}}, {"breakpoint": 767, "settings": {"slidesToShow": 1}}, {"breakpoint": 480, "settings": {"slidesToShow": 1}}]}'>
-                <!-- fancybox item #1 -->
-                <div class="fancybox-item">
-                  <div class="fancybox-img">
-                    <img src="assets/images/features/1.jpg" alt="feature">
-                  </div>
-                  <div class="fancybox-icon">
-                    <i class="icon-equipment"></i>
-                  </div><!-- /.fancybox-icon -->
-                  <div class="fancybox-body">
-                    <h4 class="fancybox-title">Improving Your Health through Automation</h4>
-                    <p class="fancybox-desc">Through our investment in new high volume chemistry tech, we have brought
-                      next generation.
-                    </p>
-                    <a href="blog-single-post.html" class="btn btn-link btn-secondary">
-                      <i class="icon-arrow-right icon-filled"></i>
-                      <span>Read More</span>
-                    </a>
-                  </div><!-- /.fancybox-body -->
-                </div><!-- /.fancybox-item -->
-                <!-- fancybox item #2 -->
-                <div class="fancybox-item">
-                  <div class="fancybox-img">
-                    <img src="assets/images/features/2.jpg" alt="feature">
-                  </div>
-                  <div class="fancybox-icon">
-                    <i class="icon-drugs"></i>
-                  </div><!-- /.fancybox-icon -->
-                  <div class="fancybox-body">
-                    <h4 class="fancybox-title">Partnering for Better Health Outcomes
-                    </h4>
-                    <p class="fancybox-desc">Building a healthier world mean looking at the future genetics and being
-                      ready for it.
-                    </p>
-                    <a href="blog-single-post.html" class="btn btn-link btn-secondary">
-                      <i class="icon-arrow-right icon-filled"></i>
-                      <span>Read More</span>
-                    </a>
-                  </div><!-- /.fancybox-body -->
-                </div><!-- /.fancybox-item -->
-                <!-- fancybox item #3 -->
-                <div class="fancybox-item">
-                  <div class="fancybox-img">
-                    <img src="assets/images/features/3.jpg" alt="feature">
-                  </div>
-                  <div class="fancybox-icon">
-                    <i class="icon-chemical10"></i>
-                  </div><!-- /.fancybox-icon -->
-                  <div class="fancybox-body">
-                    <h4 class="fancybox-title">Innovations in Vaccines & Drug Development</h4>
-                    <p class="fancybox-desc">In the face of a growing street drug crisis, quick and accurate screening
-                      is a matter of life.
-                    </p>
-                    <a href="blog-single-post.html" class="btn btn-link btn-secondary">
-                      <i class="icon-arrow-right icon-filled"></i>
-                      <span>Read More</span>
-                    </a>
-                  </div><!-- /.fancybox-body -->
-                </div><!-- /.fancybox-item -->
-                <!-- fancybox item #4 -->
-                <div class="fancybox-item">
-                  <div class="fancybox-img">
-                    <img src="assets/images/features/4.jpg" alt="feature">
-                  </div>
-                  <div class="fancybox-icon">
-                    <i class="icon-chemical11"></i>
-                  </div><!-- /.fancybox-icon -->
-                  <div class="fancybox-body">
-                    <h4 class="fancybox-title">Trust Towards our Shared Purpose</h4>
-                    <p class="fancybox-desc">We care for our patients, each other and our communities and excellence is
-                      the standard.
-                    </p>
-                    <a href="blog-single-post.html" class="btn btn-link btn-secondary">
-                      <i class="icon-arrow-right icon-filled"></i>
-                      <span>Read More</span>
-                    </a>
-                  </div><!-- /.fancybox-body -->
-                </div><!-- /.fancybox-item -->
-                <!-- fancybox item #5 -->
-                <div class="fancybox-item">
-                  <div class="fancybox-img">
-                    <img src="assets/images/features/5.jpg" alt="feature">
-                  </div>
-                  <div class="fancybox-icon">
-                    <i class="icon-class"></i>
-                  </div><!-- /.fancybox-icon -->
-                  <div class="fancybox-body">
-                    <h4 class="fancybox-title">Empowered to Change, Act, and to Adapt </h4>
-                    <p class="fancybox-desc">We care for our patients, each other and our communities and excellence is
-                      the standard.
-                    </p>
-                    <a href="blog-single-post.html" class="btn btn-link btn-secondary">
-                      <i class="icon-arrow-right icon-filled"></i>
-                      <span>Read More</span>
-                    </a>
-                  </div><!-- /.fancybox-body -->
-                </div><!-- /.fancybox-item -->
-                <!-- fancybox item #6 -->
-                <div class="fancybox-item">
-                  <div class="fancybox-img">
-                    <img src="assets/images/features/3.jpg" alt="feature">
-                  </div>
-                  <div class="fancybox-icon">
-                    <i class="icon-chemical10"></i>
-                  </div><!-- /.fancybox-icon -->
-                  <div class="fancybox-body">
-                    <h4 class="fancybox-title">Innovations in Vaccines & Drug Development</h4>
-                    <p class="fancybox-desc">In the face of a growing street drug crisis, quick and accurate screening
-                      is a matter of life.
-                    </p>
-                    <a href="blog-single-post.html" class="btn btn-link btn-secondary">
-                      <i class="icon-arrow-right icon-filled"></i>
-                      <span>Read More</span>
-                    </a>
-                  </div><!-- /.fancybox-body -->
-                </div><!-- /.fancybox-item -->
-              </div><!-- /.slick-carousel -->
-            </div><!-- /.carousel-wrapper -->
-          </div><!-- /.col-12 -->
-        </div><!-- /.row -->
-        <div class="row">
-          <div class="col-md-12 col-lg-6 offset-lg-6 col-xl-5 offset-xl-7">
-            <div class="d-flex mt-40">
-              <div class="rating d-flex mr-30">
-                <i class="fa fa-star active"></i>
-                <i class="fa fa-star active"></i>
-                <i class="fa fa-star active"></i>
-                <i class="fa fa-star active"></i>
-                <i class="fa fa-star active"></i>
+          <div class="col-12 fancybox-container">
+            <!-- fancybox item #1 -->
+            <div class="fancybox-item">
+              <div class="bg-img">
+                <img src="assets/images/features/1.jpg" alt="feature">
               </div>
-              <div>
-                <a href="#" class="color-secondary underlined-text-secondary font-weight-bold">97% Customer
-                  Satisfaction</a>
-                <span class="color-gray">based on 750+ reviews from our beloved customers and 20,000 natural
-                  products!</span>
+              <div class="fancybox-body">
+                <div class="fancybox-icon">
+                  <i class="icon-equipment"></i>
+                </div><!-- /.fancybox-icon -->
+                <h4 class="fancybox-title">Bulk Pharma Export</h4>
+                <p>Export of pharmaceutical products in large quantities.</p>
+              </div><!-- /.fancybox-body -->
+            </div><!-- /.fancybox-item -->
+            <!-- fancybox item #2 -->
+            <div class="fancybox-item">
+              <div class="bg-img">
+                <img src="assets/images/features/2.jpg" alt="feature">
               </div>
-            </div>
-          </div><!-- /.col-lg-6 -->
-        </div><!-- /.row -->
-      </div><!-- /.container -->
-    </section><!-- /.FancyBox Layout 3 -->
-
-    <!-- ======================
-       Banner Layout 6
-    ========================= -->
-    <section class="banner-layout6">
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-12 col-md-12 col-lg-5 col-xl-5">
-            <div class="banner-img"><img src="assets/images/banners/4.jpg" alt="banner"></div>
-          </div><!-- /.col-lg-6 -->
-          <div class="col-sm-12 col-md-12 col-lg-7 col-xl-6 offset-xl-1">
-            <div class="banner-content">
-              <div class="heading-layout2 mb-50">
-                <h2 class="heading-title">Helping Patients Around the Globe!!</h2>
-                <p class="heading-desc">We will work with you to develop individualised care plans, including
-                  management
-                  of chronic diseases. If we cannot assist, we can provide referrals or advice about the type of
-                  practitioner you require to treat all enquiries sensitively.
-                </p>
+              <div class="fancybox-body">
+                <div class="fancybox-icon">
+                  <i class="icon-drugs"></i>
+                </div><!-- /.fancybox-icon -->
+                <h4 class="fancybox-title">Government Supplies</h4>
+                <p>Public sector procurement and distribution.</p>
+              </div><!-- /.fancybox-body -->
+            </div><!-- /.fancybox-item -->
+            <!-- fancybox item #3 -->
+            <div class="fancybox-item">
+              <div class="bg-img">
+                <img src="assets/images/features/3.jpg" alt="feature">
               </div>
-              <div class="accordion" id="accordion1">
-                <div class="accordion-item">
-                  <div class="accordion-header" data-toggle="collapse" data-target="#collapse1">
-                    <a class="accordion-title" href="#">Which Plan Is Right For Me?</a>
-                  </div><!-- /.accordion-item-header -->
-                  <div id="collapse1" class="collapse" data-parent="#accordion1">
-                    <div class="accordion-body">
-                      <p>With any financial product that you buy, it is important that you know you are getting the best
-                        advice from a reputable company as often</p>
-                    </div><!-- /.accordion-item-body -->
-                  </div>
-                </div><!-- /.accordion-item -->
-                <div class="accordion-item">
-                  <div class="accordion-header" data-toggle="collapse" data-target="#collapse2">
-                    <a class="accordion-title" href="#">Do I have to commit to a contract?</a>
-                  </div><!-- /.accordion-item-header -->
-                  <div id="collapse2" class="collapse" data-parent="#accordion1">
-                    <div class="accordion-body">
-                      <p>With any financial product that you buy, it is important that you know you are getting the best
-                        advice from a reputable company as often</p>
-                    </div><!-- /.accordion-item-body -->
-                  </div>
-                </div><!-- /.accordion-item -->
-                <div class="accordion-item opened">
-                  <div class="accordion-header" data-toggle="collapse" data-target="#collapse3">
-                    <a class="accordion-title" href="#">What Payment Methods Are Available?</a>
-                  </div><!-- /.accordion-item-header -->
-                  <div id="collapse3" class="collapse show" data-parent="#accordion1">
-                    <div class="accordion-body">
-                      <p>With any financial product that you buy, it is important that you know you are getting the best
-                        advice from a reputable company as often</p>
-                    </div><!-- /.accordion-item-body -->
-                  </div>
-                </div><!-- /.accordion-item -->
-              </div><!-- /.accordion -->
-            </div>
-          </div><!-- /.col-lg-6 -->
-        </div><!-- /.row -->
-      </div><!-- /.container -->
-    </section><!-- /.Banner Layout 6 -->
-
-    <!-- ======================
-       clients
-    ========================= -->
-    <section class="clients pt-50 pb-50 border-top">
-      <div class="container">
-        <div class="row">
-          <div class="col-12">
-            <div class="slick-carousel"
-              data-slick='{"slidesToShow": 6, "arrows": false, "dots": false, "autoplay": true,"autoplaySpeed": 2000, "infinite": true, "responsive": [ {"breakpoint": 992, "settings": {"slidesToShow": 3}}, {"breakpoint": 767, "settings": {"slidesToShow": 2}}, {"breakpoint": 480, "settings": {"slidesToShow": 2}}]}'>
-              <div class="client">
-                <img src="assets/images/clients/1.png" alt="client">
-              </div><!-- /.client -->
-              <div class="client">
-                <img src="assets/images/clients/2.png" alt="client">
-              </div><!-- /.client -->
-              <div class="client">
-                <img src="assets/images/clients/3.png" alt="client">
-              </div><!-- /.client -->
-              <div class="client">
-                <img src="assets/images/clients/4.png" alt="client">
-              </div><!-- /.client -->
-              <div class="client">
-                <img src="assets/images/clients/5.png" alt="client">
-              </div><!-- /.client -->
-              <div class="client">
-                <img src="assets/images/clients/6.png" alt="client">
-              </div><!-- /.client -->
-              <div class="client">
-                <img src="assets/images/clients/4.png" alt="client">
-              </div><!-- /.client -->
-            </div><!-- /.carousel -->
+              <div class="fancybox-body">
+                <div class="fancybox-icon">
+                  <i class="icon-chemical10"></i>
+                </div><!-- /.fancybox-icon -->
+                <h4 class="fancybox-title">Contract Manufacturer</h4>
+                <p>Outsourced manufacturing services provider.</p>
+              </div><!-- /.fancybox-body -->
+            </div><!-- /.fancybox-item -->
+            <!-- fancybox item #4 -->
+            <div class="fancybox-item">
+              <div class="bg-img">
+                <img src="assets/images/features/4.jpg" alt="feature">
+              </div>
+              <div class="fancybox-body">
+                <div class="fancybox-icon">
+                  <i class="icon-chemical11"></i>
+                </div><!-- /.fancybox-icon -->
+                <h4 class="fancybox-title">Cold Chain<br> Shipping</h4>
+                <p>Temperature-controlled transport of goods.</p>
+              </div><!-- /.fancybox-body -->
+            </div><!-- /.fancybox-item -->
+            <!-- fancybox item #5 -->
+            <div class="fancybox-item">
+              <div class="bg-img">
+                <img src="assets/images/features/5.jpg" alt="feature">
+              </div>
+              <div class="fancybox-body">
+                <div class="fancybox-icon">
+                  <i class="icon-class"></i>
+                </div><!-- /.fancybox-icon -->
+                <h4 class="fancybox-title">Hospital Supplies</h4>
+                <p>Medical equipment and materials provision.</p>
+              </div><!-- /.fancybox-body -->
+            </div><!-- /.fancybox-item -->
+            <!-- fancybox item #6 -->
           </div><!-- /.col-12 -->
         </div><!-- /.row -->
       </div><!-- /.container -->
-    </section><!-- /.clients -->
+    </section><!-- /.FancyBox Layout 5 -->
+
+        <!-- ========================
+     Banner Layout 3
+    =========================== -->
+    <section class="banner-layout3 py-0">
+      <div class="top-shape"></div>
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-12 col-xl-6 banner-img d-flex align-items-center">
+            <div class="bg-img">
+              <img src="assets/images/banners/contract-manufacturer.jpg" alt="backgrounds">
+            </div>
+            <div class="banner-shape"></div>
+          </div><!-- /.col-lg-6 -->
+          <div class="col-12 col-xl-6 banner-content">
+            <div class="banner-text">
+              <div class="heading-layout2 heading-light">
+                <h3 class="heading-title">WHO WE <span style="color:#ed6f1e;">ARE?</span></h3>
+                <p class="heading-desc mb-40">We are a pharmaceutical company that is committed to improving the health and wellbeing of people globally. Our team of experienced professionals includes scientists, researchers, and pharmaceutical experts who are dedicated to developing innovative solutions to address some of the most pressing healthcare issues of our time.</p>
+                <p class="heading-desc mb-40">We specialize in the development, manufacturing, and distribution of high-quality pharmaceutical products that meet the needs of patients, healthcare providers, and partners worldwide. Our products are made using the latest technologies and adhere to strict quality control measures to ensure safety and efficacy.</p>
+              </div>
+            </div><!-- /.banner-text -->
+          </div><!-- /.col-lg-6 -->
+        </div><!-- /.row -->
+      </div><!-- /.container -->
+    </section><!-- /.Banner Layout3 -->
+
+
+        <!-- =========================
+      Testimonials layout 1
+      =========================  -->
+      <div class="heading-layout2 text-center mt-60">
+        <h3 class="heading-title">Our Happy <span style="color:#ed6f1e;">Clients</span></h3>
+      </div>
+    <section class="testimonials-layout1">
+      <div class="container">
+        <div class="row testimonials-wrapper">
+          <!-- Testimonial #1 -->
+          <div class="col-sm-4 col-md-4 col-lg-4">
+            <div class="testimonial-item">
+              <h3 class="testimonial-title">The team at MyGenic Healthcare responded quickly to an urgent project request. Our project timelines were jeopardized by an unforeseen issue with another vendor and MyGenic came to the rescue.</h3>
+              <div class="testimonial-meta d-flex align-items-center">
+                <div class="testimonial-thmb">
+                  <img src="assets/images/testimonials/testimonial-1.png" alt="thumb">
+                </div>
+                <div>
+                  <h4 class="testimonial-meta-title">Jatin Chopra</h4>
+                  <p class="testimonial-meta-desc">Production Executive</p>
+                </div>
+              </div>
+            </div><!-- /. testimonial-item -->
+          </div><!-- /.col-lg-6 -->
+          <!-- Testimonial #2 -->
+          <div class="col-sm-4 col-md-4 col-lg-4">
+            <div class="testimonial-item">
+              <h3 class="testimonial-title">In my first project with MyGenic Healthcare I was so impressed with their responsiveness and scientific approach to issues that I have them at the top of my list for quoting on any work in their wheelhouse.</h3>
+              <div class="testimonial-meta d-flex align-items-center">
+                <div class="testimonial-thmb">
+                  <img src="assets/images/testimonials/testimonial-2.png" alt="thumb">
+                </div>
+                <div>
+                  <h4 class="testimonial-meta-title">Shweta Chavhan</h4>
+                  <p class="testimonial-meta-desc">Analytical Chemist</p>
+                </div>
+              </div>
+            </div><!-- /. testimonial-item -->
+          </div><!-- /.col-lg-6 -->
+          <!-- Testimonial #3 -->
+          <div class="col-sm-4 col-md-4 col-lg-4">
+            <div class="testimonial-item">
+              <h3 class="testimonial-title">MyGenic Healthcare came to our rescue and allowed us to get our Phase I trial back on track after a well-known CDMO failed to release our CTM. We are now recruiting patients, thanks to MyGenic Healthcare!.</h3>
+              <div class="testimonial-meta d-flex align-items-center">
+                <div class="testimonial-thmb">
+                  <img src="assets/images/testimonials/testimonial-3.png" alt="thumb">
+                </div>
+                <div>
+                  <h4 class="testimonial-meta-title">Nikhil Shinde</h4>
+                  <p class="testimonial-meta-desc">R and D chemist</p>
+                </div>
+              </div>
+            </div><!-- /. testimonial-item -->
+          </div><!-- /.col-lg-6 -->
+        </div><!-- /.row -->
+      </div><!-- /.container -->
+    </section><!-- /.testimonials layout 1 -->
+
+
+        <!-- ========================
+        Team layout 2
+    ========================== -->
+    <div class="heading-layout2 text-center mt-50">
+        <h3 class="heading-title">Our <span style="color:#ed6f1e;">Team</span></h3>
+      </div>
+    <section class="team-layout2 text-center pt-0 pb-30">
+      <div class="container">
+        <div class="row">
+          <!-- Member #1 -->
+          <div class="col-sm-6 col-md-6 col-lg-3">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/images/team/team-1.png" alt="member img">
+              </div><!-- /.member-img -->
+              <div class="member-info">
+                <ul class="social-icons justify-content-center list-unstyled mb-0">
+                  <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                  <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                  <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                </ul>
+                <h5 class="member-name">Namrata Patil</h5>
+                <p class="member-desc">Manager</p>
+              </div><!-- /.member-info -->
+            </div><!-- /.member -->
+          </div><!-- /.col-lg-3 -->
+          <!-- Member #2 -->
+          <div class="col-sm-6 col-md-6 col-lg-3">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/images/team/team-2.png" alt="member img">
+              </div><!-- /.member-img -->
+              <div class="member-info">
+                <ul class="social-icons justify-content-center list-unstyled mb-0">
+                  <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                  <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                  <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                </ul>
+                <h5 class="member-name">Sapana Gupta</h5>
+                <p class="member-desc">Assistant Manager</p>
+              </div><!-- /.member-info -->
+            </div><!-- /.member -->
+          </div><!-- /.col-lg-3 -->
+          <!-- Member #3 -->
+          <div class="col-sm-6 col-md-6 col-lg-3">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/images/team/team-3.png" alt="member img">
+              </div><!-- /.member-img -->
+              <div class="member-info">
+                <ul class="social-icons justify-content-center list-unstyled mb-0">
+                  <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                  <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                  <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                </ul>
+                <h5 class="member-name">Vikrant Pawar</h5>
+                <p class="member-desc">HR</p>
+              </div><!-- /.member-info -->
+            </div><!-- /.member -->
+          </div><!-- /.col-lg-3 -->
+          <!-- Member #4 -->
+          <div class="col-sm-6 col-md-6 col-lg-3">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/images/team/team-4.png" alt="member img">
+              </div><!-- /.member-img -->
+              <div class="member-info">
+                <ul class="social-icons justify-content-center list-unstyled mb-0">
+                  <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                  <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                  <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                </ul>
+                <h5 class="member-name">Shrikant Bhalekar</h5>
+                <p class="member-desc">Executive Engineer</p>
+              </div><!-- /.member-info -->
+            </div><!-- /.member -->
+          </div><!-- /.col-lg-3 -->
+        </div> <!-- /.row -->
+      </div><!-- /.container -->
+    </section><!-- /.Team layout 2  -->
+
 
 
 <?php include("footer.php"); ?>
