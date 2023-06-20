@@ -68,7 +68,7 @@
                 <a href="index.php" class="nav-item-link active">Home</a>
               </li><!-- /.nav-item -->
               <li class="nav-item">
-                <a href="about.php" class="nav-item-link">About Us</a>
+                <a href="about-us.php" class="nav-item-link">About Us</a>
               </li><!-- /.nav-item -->
               <li class="nav-item">
                 <a href="#" class="nav-item-link">Our Products</a>
@@ -103,7 +103,7 @@
             </ul><!-- /.navbar-nav -->
             <ul class="header-actions d-flex align-items-center position-relative list-unstyled mb-0">
               <li>
-                <a href="#" class="btn btn-secondary btn-contact"> Quick Contacts</a>
+                <a href="contact.php" class="btn btn-secondary btn-contact"> Quick Contacts</a>
               </li>
             </ul>
             <button class="close-mobile-menu d-block d-lg-none"><i class="fas fa-times"></i></button>

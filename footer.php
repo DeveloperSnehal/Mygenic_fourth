@@ -23,7 +23,7 @@
                 <nav>
                   <ul class="list-unstyled">
                     <li><a href="index.php">Home</a></li>
-                    <li><a href="#">About Us</a></li>
+                    <li><a href="about-us.php">About Us</a></li>
                     <li><a href="#">Our Products</a></li>
                     <li><a href="#">How We Do?</a></li>
                     <li><a href="#"></a></li>

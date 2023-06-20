@@ -3695,7 +3695,7 @@ input[type=radio] {
 }
 .banner-layout3 .banner-content,
 .banner-layout4 .banner-content {
-  padding: 110px 0 110px 130px;
+  padding: 70px 0 50px 100px;
   background-color: #18a0b1;
 }
 .banner-layout3 .banner-text,
@@ -6987,7 +6987,7 @@ input[type=radio] {
   right: 60px;
 }
 .about-layout1 .about-Text {
-  padding: 170px 0 0 70px;
+  /* padding: 170px 0 0 70px; */
 }
 .about-layout1 .about-Text p {
   font-size: 16px;
