@@ -86,7 +86,7 @@
                     <a href="qualitymedicine.php" class="nav-item-link">Quality Medicine Supplier</a>
                   </li><!-- /.nav-item -->
                   <li class="nav-item">
-                    <a href="research-single.html" class="nav-item-link">Leading Pharmaceutical Exporter</a>
+                    <a href="leadingpharma.php" class="nav-item-link">Leading Pharmaceutical Exporter</a>
                   </li><!-- /.nav-item -->
                   <li class="nav-item">
                     <a href="research-single.html" class="nav-item-link">Research And Development</a>
