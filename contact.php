@@ -5,8 +5,7 @@
             Google Map
     =========================  -->
     <section class="map py-0">
-      <iframe height="620"
-        src="https://www.google.com/maps/place/Dolphin+Platinum/@19.0228546,73.0872201,19z/data=!4m16!1m9!4m8!1m0!1m6!1m2!1s0x3be7e9d7de2988b5:0x65f0babb8b111ed6!2sPlot+no+98,+Dolphin+Platinum,+Sector+35,+Kamothe,+Panvel,+Navi+Mumbai,+Maharashtra+410209,+India!2m2!1d73.0877852!2d19.0227489!3m5!1s0x3be7e9d7de2988b5:0x65f0babb8b111ed6!8m2!3d19.0228533!4d73.0878638!16s%2Fg%2F1tdr1sbm?authuser=0&entry=ttu"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7543.8578653229415!2d73.087864!3d19.022853!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7e9d7de2988b5%3A0x65f0babb8b111ed6!2sDolphin%20Platinum!5e0!3m2!1sen!2sin!4v1687349312472!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       <div class="map-container">
         <div class="contact-panel p-0">
           <div class="panel-header">
