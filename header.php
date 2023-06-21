@@ -83,7 +83,7 @@
                     <a href="thirdparty.php" class="nav-item-link">Third Party Manufacturer</a>
                   </li><!-- /.nav-item -->
                   <li class="nav-item">
-                    <a href="research-single.html" class="nav-item-link">Quality Medicine Supplier</a>
+                    <a href="qualitymedicine.php" class="nav-item-link">Quality Medicine Supplier</a>
                   </li><!-- /.nav-item -->
                   <li class="nav-item">
                     <a href="research-single.html" class="nav-item-link">Leading Pharmaceutical Exporter</a>
