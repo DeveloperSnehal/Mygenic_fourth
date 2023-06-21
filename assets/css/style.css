@@ -3787,7 +3787,7 @@ input[type=radio] {
 
 .banner-layout5 .banner-content {
   max-width: 650px;
-  padding: 120px 0;
+  padding: 70px 0;
 }
 .banner-layout5 .banner-img {
   position: relative;
@@ -3805,6 +3805,7 @@ input[type=radio] {
   z-index: -1;
   background-color: #eef7ff;
 }
+
 
 .banner-layout7 .banner-img {
   -webkit-clip-path: url(#path-direction-down);

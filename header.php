@@ -89,7 +89,7 @@
                     <a href="leadingpharma.php" class="nav-item-link">Leading Pharmaceutical Exporter</a>
                   </li><!-- /.nav-item -->
                   <li class="nav-item">
-                    <a href="research-single.html" class="nav-item-link">Research And Development</a>
+                    <a href="R&D.php" class="nav-item-link">Research And Development</a>
                   </li><!-- /.nav-item -->
                 </ul><!-- /.dropdown-menu -->
               </li><!-- /.nav-item -->
