@@ -67,7 +67,7 @@
                     <a href="tests-single-test.html">Manufacturing</a>
                   </h4>
                   <p class="service-desc">MyGenic Healthcare Private Limited may manufacture a range of pharmaceutical products including tablets, injections, and anti-cancer capsules.</p>
-                  <a href="tests-single-test.html" class="btn btn-primary">
+                  <a href="contractmanufacturer.php" class="btn btn-primary">
                     <span>Explore More</span>
                     <i class="icon-arrow-right"></i>
                   </a>
@@ -84,7 +84,7 @@
                     <a href="tests-single-test.html">Exporting</a>
                   </h4>
                   <p class="service-desc">By developing effective processes and partnerships, the company can efficiently export their pharmaceutical products to a range of global markets. </p>
-                  <a href="tests-single-test.html" class="btn btn-primary">
+                  <a href="leadingpharma.php" class="btn btn-primary">
                     <span>Explore More</span>
                     <i class="icon-arrow-right"></i>
                   </a>
@@ -98,7 +98,7 @@
                     <i class="icon-bi bi-pencil-square icon-item"></i>
                   </div>
                   <h4 class="service-title">
-                    <a href="tests-single-test.html">Quality Control</a>
+                    <a href="qualitymedicine.php">Quality Control</a>
                   </h4>
                   <p class="service-desc">MyGenic Healthcare Private Limited likely has a quality control system in place to ensure that their products meet industry standards and regulations.</p>
                   <a href="tests-single-test.html" class="btn btn-primary">
