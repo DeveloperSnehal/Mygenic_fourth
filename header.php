@@ -80,7 +80,7 @@
                     <a href="contractmanufacturer.php" class="nav-item-link">Contract Manufacturer</a>
                   </li><!-- /.nav-item -->
                   <li class="nav-item">
-                    <a href="research-modern.html" class="nav-item-link">Third Party Manufacturer</a>
+                    <a href="thirdparty.php" class="nav-item-link">Third Party Manufacturer</a>
                   </li><!-- /.nav-item -->
                   <li class="nav-item">
                     <a href="research-single.html" class="nav-item-link">Quality Medicine Supplier</a>
