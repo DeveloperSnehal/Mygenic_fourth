@@ -56,7 +56,7 @@
       </div><!-- /.header-top -->
       <nav class="navbar navbar-expand-lg sticky-navbar">
         <div class="container-fluid">
-          <a class="navbar-brand" href="index.html">
+          <a class="navbar-brand" href="index.php">
             <img src="assets/images/logo/mygenic-logo-tm.png" class="logo-dark" alt="logo">
           </a>
           <button class="navbar-toggler" type="button">
@@ -94,7 +94,7 @@
                 </ul><!-- /.dropdown-menu -->
               </li><!-- /.nav-item -->
               <li class="nav-item">
-                <a href="#" class="nav-item-link">How We Do?</a>
+                <a href="howwedo.php" class="nav-item-link">How We Do?</a>
               </li><!-- /.nav-item -->
               <li class="nav-item">
                 <a href="contact.php" class="nav-item-link">Contacts</a>
