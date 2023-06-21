@@ -77,7 +77,7 @@
                 <a href="#" data-toggle="dropdown" class="dropdown-toggle nav-item-link">Services</a>
                 <ul class="dropdown-menu">
                   <li class="nav-item">
-                    <a href="research-grid.html" class="nav-item-link">Contract Manufacturer</a>
+                    <a href="contractmanufacturer.php" class="nav-item-link">Contract Manufacturer</a>
                   </li><!-- /.nav-item -->
                   <li class="nav-item">
                     <a href="research-modern.html" class="nav-item-link">Third Party Manufacturer</a>

@@ -37,7 +37,7 @@
                 <h6 class="footer-widget-title">Our Services</h6>
                 <nav>
                   <ul class="list-unstyled">
-                    <li><a href="#">Contract Manufacturer</a></li>
+                    <li><a href="contractmanufacturer.php">Contract Manufacturer</a></li>
                     <li><a href="#">Third Party Pharma Manufacturer</a></li>
                     <li><a href="#">Quality Medicine Supplier</a></li>
                     <li><a href="#">Leading Pharmaceutical Exporter</a></li>

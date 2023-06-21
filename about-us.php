@@ -47,7 +47,7 @@
           </div><!-- /.col-12 -->
           <div class="col-sm-12 col-md-10 col-lg-10 col-xl-7">
                 <div class="heading-layout2 text-center">
-                 <h3 class="heading-title">ABOUT <span style="color:#ed6f1e;">US</span></h3>
+                 <h3 class="heading-title">About  <span style="color:#ed6f1e;">Us</span></h3>
               </div><!-- /heading -->
             <div class="about-Text">
               <p class="mb-30">We are a leading pharmaceutical company dedicated to providing high-quality products and services to businesses in the healthcare industry. With our extensive expertise, cutting-edge technologies and commitment to excellence, we aim to be your trusted partner in achieving success and improving patient outcomes. <br><br>We are one of the leading Exporter of a premium range of Pharmaceutical Tablets, Pharmaceutical Injection & Anti Cancer Capsules and many more.
@@ -183,7 +183,7 @@
 <section id="ourproducts" class="doctor-detail">
         <div class="container">
           <div class="sec-title centered">
-             <h3 class="heading-title text-center">FACTSHEET</h3>
+             <h3 class="heading-title text-center">Factsheet</h3>
                 <div class="separator"></div>
             </div>
             <div class="row">
@@ -374,7 +374,7 @@
 
     <section class="">
       <div class="sec-title centered">
-            <h3 class="heading-title text-center">CERTIFICATES</h3>
+            <h3 class="heading-title text-center">Certificates</h3>
             <div class="separator"></div>
         </div>
       <div class="container">
