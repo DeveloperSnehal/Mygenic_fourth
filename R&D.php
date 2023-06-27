@@ -66,7 +66,7 @@
       <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-md-12 col-lg-5 px-0 d-flex justify-content-end" style="align-items: center;">
-                <div><img src="assets\images\services\team-medical-research.jpg" alt="banner" style="max-width: 90%;border-radius: 50%;"></div>
+                <div><img src="assets\images\services\contract manufacturer 2.jpg" alt="banner" style="max-width: 90%;border-radius: 50%;"></div>
             </div><!-- /.col-lg-6 -->
           <div class="col-sm-12 col-md-12 col-lg-7">
                 <div class="banner-content">

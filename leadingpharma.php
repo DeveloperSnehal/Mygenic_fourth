@@ -60,7 +60,7 @@
                 </div>
           </div><!-- /.col-lg-6 -->
           <div class="col-sm-12 col-md-12 col-lg-5 px-0 d-flex justify-content-end">
-             <div class="banner-img"><img src="assets\images\services\service7.png" alt="banner"></div>
+             <div class="banner-img"><img src="assets\images\services\service7.png" alt="banner" ></div>
           </div><!-- /.col-lg-6 -->
         </div><!-- /.row -->
       </div><!-- /.container -->
@@ -70,7 +70,7 @@
       <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-md-12 col-lg-5 px-0 d-flex justify-content-end">
-                <div class="banner-img Height 80%"><img src="assets\images\services\service8.png" alt="banner" style="max-width: 80%;margin-left: 10%;"></div>
+                <div class="banner-img Height 80%"><img src="assets\images\services\service8.png" alt="banner" style="max-width: 70%;margin-left: 10%;"></div>
             </div><!-- /.col-lg-6 -->
           <div class="col-sm-12 col-md-12 col-lg-7">
                 <div class="banner-content">
