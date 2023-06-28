@@ -120,7 +120,7 @@
           <div class="col-sm-6 col-d-4 col-lg-4">
             <div class="fancybox-item">
               <div class="fancybox-icon">
-                <i class="icon-archives"></i>
+                <i class="bi bi-award"></i>
               </div><!-- /.fancybox-icon -->
               <div class="fancybox-body">
                 <h4 class="fancybox-title">EXPERIENCE & CORE KNOWLEDGE</h4>
@@ -131,7 +131,7 @@
           <div class="col-sm-6 col-d-4 col-lg-4">
             <div class="fancybox-item">
               <div class="fancybox-icon">
-                <i class="icon-avatar"></i>
+                <i class="bi bi-arrows-move"></i>
               </div><!-- /.fancybox-icon -->
               <div class="fancybox-body">
                 <h4 class="fancybox-title">CLIENT-CENTRIC <br>APPROACH</h4>
@@ -142,7 +142,7 @@
           <div class="col-sm-6 col-d-4 col-lg-4">
             <div class="fancybox-item">
               <div class="fancybox-icon">
-                <i class="icon-class"></i>
+                <i class="bi bi-hand-thumbs-up-fill"></i>
               </div><!-- /.fancybox-icon -->
               <div class="fancybox-body">
                 <h4 class="fancybox-title">FAIR <br>DEALINGS</h4>
@@ -155,7 +155,7 @@
           <div class="col-sm-6 col-d-4 col-lg-4">
             <div class="fancybox-item">
               <div class="fancybox-icon">
-                <i class="icon-clothing"></i>
+                <i class="bi bi-briefcase-fill"></i>
               </div><!-- /.fancybox-icon -->
               <div class="fancybox-body">
                 <h4 class="fancybox-title">ETHICAL BUSINESS DEALINGS</h4>
@@ -166,7 +166,7 @@
           <div class="col-sm-6 col-d-4 col-lg-4">
             <div class="fancybox-item">
               <div class="fancybox-icon">
-                <i class="icon-atom"></i>
+                <i class="bi bi-currency-exchange"></i>
               </div><!-- /.fancybox-icon -->
               <div class="fancybox-body">
                 <h4 class="fancybox-title">COMPETITIVE PRICING</h4>
