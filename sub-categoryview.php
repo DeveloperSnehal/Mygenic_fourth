@@ -24,7 +24,10 @@
                 <a href="index.php"><i class="icon-home"></i> <span>Home</span></a>
               </li>
               <li class="breadcrumb-item">
-                <a href="sub-categoryview.php">Our Sub-Category</a>
+                <a href="product.php">Our Products</a>
+              </li>
+              <li class="breadcrumb-item">
+                <a href="category.php">Category</a>
               </li>
               <li class="breadcrumb-item active" aria-current="page">Our Sub-Category</li>
             </ol>
@@ -46,22 +49,48 @@
           </div><!-- /.col-lg-6 -->
         </div><!-- /.row -->
         <div class="row">
-          <!-- Product item #1 -->
-          <div class="col-sm-6 col-md-6 col-lg-3">
-            <div class="product-item">
-              <div class="product-img">
-                <img src="assets/images/products/1.jpg" alt="Product" loading="lazy">
-                <div class="product-action">
-                  <a href="#" class="btn btn-secondary">
-                    <i class="icon-bi bi-eye-fill"></i> <span>View Product</span>
-                  </a>
-                </div><!-- /.product-action -->
-              </div><!-- /.product-img -->
+         <?php
+            require ('connection/connect.php');
+
+            $Product_Chemical=$_GET['Product_Chemical'];
+            $sql = "SELECT * FROM `productdetails` WHERE Product_Chemical='$Product_Chemical'";
+            $result = mysqli_query($con,$sql);
+            $check_crud = mysqli_num_rows($result) > 0;
+
+            if($check_crud)
+            {
+              while($row = mysqli_fetch_array($result))
+              {
+                ?>
+            <!-- Product item #1 -->
+            <div class="col-sm-6 col-md-6 col-lg-3">
+              <div class="product-item">
               <div class="product-info">
-                <h4 class="product-title"><a href="supplies-single.html">Anti Cancer Capsules</a></h4>
-              </div><!-- /.product-content -->
-            </div><!-- /.product-item -->
-          </div><!-- /.col-lg-3 -->
+                  <h4 class="product-title"><a href="supplies-single.html"><?php echo $row['Product_Name']; ?></a></h4>
+                </div><!-- /.product-content -->
+
+                <div class="product-img">
+                 <?php echo '<img class="card-img-top img-fluid" src="./admin/product_images/'.$row['Product_Image'].'" style="height: 200px; width: 200px;"  alt=" ">' ?>
+                  <div class="product-action">
+                    <a href="product-details.php?Product_Name=<?php echo $row['Product_Name']; ?>" class="btn btn-secondary">
+                      <i class="icon-bi bi-eye-fill"></i> <span>View Product</span>
+                    </a>
+                  </div><!-- /.product-action -->
+                </div><!-- /.product-img -->
+
+                <div class="product-info">
+                  <h4 class="product-title"><a href="supplies-single.html"><span style="color:#ed6f1e;"><?php echo $row['category_name']; ?></span></a></h4>
+                </div><!-- /.product-content -->
+              </div><!-- /.product-item -->
+            </div><!-- /.col-lg-3 -->
+            <?php
+                  }
+                }
+             else
+              {
+
+              }
+          ?>
         </div><!-- /.row -->
       </div><!-- /.container -->
     </section><!-- /.shop -->
