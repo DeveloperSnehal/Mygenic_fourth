@@ -66,7 +66,7 @@
             <div class="col-sm-6 col-md-6 col-lg-3">
               <div class="product-item">
               <div class="product-info">
-                  <h4 class="product-title"><a href="supplies-single.html"><?php echo $row['Product_Name']; ?></a></h4>
+                  <h4 class="product-title"><a href="#"><?php echo $row['Product_Name']; ?></a></h4>
                 </div><!-- /.product-content -->
 
                 <div class="product-img">
@@ -79,7 +79,7 @@
                 </div><!-- /.product-img -->
 
                 <div class="product-info">
-                  <h4 class="product-title"><a href="supplies-single.html"><span style="color:#ed6f1e;"><?php echo $row['category_name']; ?></span></a></h4>
+                  <h4 class="product-title"><a href="#"><span style="color:#ed6f1e;"><?php echo $row['category_name']; ?></span></a></h4>
                 </div><!-- /.product-content -->
               </div><!-- /.product-item -->
             </div><!-- /.col-lg-3 -->
