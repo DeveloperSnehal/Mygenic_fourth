@@ -66,7 +66,7 @@
                   <?php echo '<img class="card-img-top img-fluid" src="./admin/category_images/'.$row['category_image'].'" width="100px"; height="100px"; alt=" ">' ?>
                   <div class="product-action">
                     <a href="category.php?category_id=<?php echo $row['category_id']; ?>" class="btn btn-secondary">
-                      <i class="icon-bi bi-eye-fill"></i> <span>View Product</span>
+                      <i class="icon-bi bi-eye-fill"></i> <span>View category</span>
                     </a>
                   </div><!-- /.product-action -->
                 </div><!-- /.product-img -->

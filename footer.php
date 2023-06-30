@@ -11,7 +11,7 @@
                 <h6 class="footer-widget-title" style="color: #ed6f1e;">MyGenic Healthcare Private Limited</h6>
                  <h3 class="testimonial-title">The team at MyGenic Healthcare responded quickly to an urgent project request. Our project timelines were jeopardized by an unforeseen issue with another vendor and MyGenic came to the rescue.</h3>
                 <div class="d-flex align-items-center">
-                  <a href="#" class="btn btn-primary btn-block">
+                  <a href="about-us.php" class="btn btn-primary btn-block">
                     <span>Read More</span> <i class="icon-arrow-right"></i>
                   </a>
                 </div>

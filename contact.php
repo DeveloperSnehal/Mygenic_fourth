@@ -49,7 +49,7 @@
             <div class="text-block">
               <p class="text-block-desc">We are one of the leading Exporter of a premium range of Pharmaceutical Tablets, Pharmaceutical Injection & Anti Cancer Capsules and many more.</p>
             </div>
-            <a href="about-us.html" class="btn btn-primary">
+            <a href="about-us.php" class="btn btn-primary">
               <span>Accreditation & Licensing</span> <i class="icon-arrow-right"></i>
             </a>
           </div><!-- /.col-lg-4 -->

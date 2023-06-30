@@ -73,7 +73,7 @@
                  <?php echo '<img class="card-img-top img-fluid" src="./admin/product_images/'.$row['Product_Image'].'" style="height: 200px; width: 200px;"  alt=" ">' ?>
                   <div class="product-action">
                     <a href="product-details.php?Product_Name=<?php echo $row['Product_Name']; ?>" class="btn btn-secondary">
-                      <i class="icon-bi bi-eye-fill"></i> <span>View Product</span>
+                      <i class="icon-bi bi-eye-fill"></i> <span>View Details</span>
                     </a>
                   </div><!-- /.product-action -->
                 </div><!-- /.product-img -->

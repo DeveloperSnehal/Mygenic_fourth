@@ -70,7 +70,7 @@
                   <?php echo '<img class="card-img-top img-fluid" src="./admin/product_images/'.$row['Product_Image'].'" style="height: 200px; width: 200px;" alt=" ">' ?>
                   <div class="product-action">
                     <a href="sub-categoryview.php?Product_Chemical=<?php echo $row['Product_Chemical']; ?>" class="btn btn-secondary">
-                      <i class="icon-bi bi-eye-fill"></i> <span>View Product</span>
+                      <i class="icon-bi bi-eye-fill"></i> <span>View Sub-Category</span>
                     </a>
                   </div><!-- /.product-action -->
                 </div><!-- /.product-img -->
