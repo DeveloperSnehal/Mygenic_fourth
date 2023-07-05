@@ -4,15 +4,12 @@
        page title
     =========================== -->
     <section class="page-title-layout1 page-title-light pb-0 bg-overlay bg-parallax">
-      <div class="bg-img"><img src="assets/images/page-titles/1.jpg" alt="background"></div>
+      <div class="bg-img"><img src="assets/images/page-titles/Leading.jpg" alt="background"></div>
       <div class="container">
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-12 col-xl-6">
             <h1 class="pagetitle-heading">Leading Pharmaceutical Exporter</h1>
-            <p class="pagetitle-desc">Your focus is on providing patients the best possible care and we’re here to
-              help. To complement our comprehensive menu of tests, we provide resources to registered healthcare
-              professionals to support your testing needs.
-            </p>
+            <p class="pagetitle-desc">We are a leading pharmaceutical exporter, delivering quality medicines worldwide for better global healthcare.</p>
           </div><!-- /.col-xl-6 -->
         </div><!-- /.row -->
       </div><!-- /.container -->

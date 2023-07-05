@@ -4,15 +4,12 @@
        page title
     =========================== -->
     <section class="page-title-layout1 page-title-light pb-0 bg-overlay bg-parallax">
-      <div class="bg-img"><img src="assets/images/page-titles/1.jpg" alt="background"></div>
+      <div class="bg-img"><img src="assets/images/page-titles/ourproduct.jpg" alt="background"></div>
       <div class="container">
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-12 col-xl-6">
             <h1 class="pagetitle-heading">Our Category</h1>
-            <p class="pagetitle-desc">Your focus is on providing patients the best possible care and we’re here to
-              help. To complement our comprehensive menu of tests, we provide resources to registered healthcare
-              professionals to support your testing needs.
-            </p>
+            <p class="pagetitle-desc">Our products are meticulously crafted to improve lives and enhance patient well-being in the field of pharmaceutical manufacturing and supply.</p>
           </div><!-- /.col-xl-6 -->
         </div><!-- /.row -->
       </div><!-- /.container -->
@@ -63,7 +60,7 @@
             <div class="col-sm-6 col-md-6 col-lg-3">
               <div class="product-item">
                <div class="product-info">
-                  <h4 class="product-title"><a href="supplies-single.html"><?php echo $row['Product_Name']; ?></a></h4>
+                  <h4 class="product-title"><a href="#"><?php echo $row['Product_Name']; ?></a></h4>
                 </div><!-- /.product-content -->
 
                 <div class="product-img">

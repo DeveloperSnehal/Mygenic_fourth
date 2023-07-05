@@ -7,30 +7,28 @@
       <div class="slick-carousel carousel-dots-light m-slides-0"
         data-slick='{"slidesToShow": 1, "arrows": true, "dots": true, "speed": 700,"fade": true,"cssEase": "linear"}'>
         <div class="slide-item bg-overlay align-v-h">
-          <div class="bg-img"><img src="assets/images/sliders/7.jpg" alt="slide img"></div>
+          <div class="bg-img"><img src="assets/images/sliders/bannerimg1.jpg" alt="slide img"></div>
           <div class="container">
             <div class="row align-items-center">
               <div class="col-sm-12 col-md-12 col-lg-12 col-xl-8 offset-xl-2">
                 <div class="slide-content">
-                  <span class="slide-subtitle">Excellence, Dedicated, and Experienced Laboratory Technologists!</span>
-                  <h2 class="slide-title">Large Selections Of Medical Products</h2>
-                  <p class="slide-desc">We are continually harnessing our medical expertise to build best test offering
-                    while investing in technology to transform the delivery of health care.</p>
+                  <span class="slide-subtitle">Excellence, Dedicated, and Experienced in pharmaceutical manufacturing and supply!</span>
+                  <h3 class="slide-title">Reliable manufacturing and supply, transforming healthcare.</h3>
+                  <p class="slide-desc">Combining medical expertise and technological innovation to create the best-in-class test offerings, revolutionizing healthcare delivery in pharmaceutical manufacturing and supply.</p>
                 </div><!-- /.slide-content -->
               </div><!-- /.col-xl-7 -->
             </div><!-- /.row -->
           </div><!-- /.container -->
         </div><!-- /.slide-item -->
         <div class="slide-item bg-overlay align-v-h">
-          <div class="bg-img"><img src="assets/images/sliders/8.jpg" alt="slide img"></div>
+          <div class="bg-img"><img src="assets/images/sliders/bannerimg2.jpg" alt="slide img"></div>
           <div class="container">
             <div class="row align-items-center">
               <div class="col-sm-12 col-md-12 col-lg-12 col-xl-8 offset-xl-2">
                 <div class="slide-content">
-                  <span class="slide-subtitle">Excellence, Dedicated, and Experienced Laboratory Technologists!</span>
-                  <h2 class="slide-title">Medical Supplies <br> And Equipment</h2>
-                  <p class="slide-desc">We are continually harnessing our medical expertise to build best test offering
-                    while investing in technology to transform the delivery of health care.</p>
+                  <span class="slide-subtitle">Excellence, Dedicated, and Experienced in pharmaceutical manufacturing and supply!</span>
+                  <h2 class="slide-title">Innovative medicines, delivered <br> with precision and care</h2>
+                  <p class="slide-desc">Combining medical expertise and technological innovation to create the best-in-class test offerings, revolutionizing healthcare delivery in pharmaceutical manufacturing and supply.</p>
                 </div><!-- /.slide-content -->
               </div><!-- /.col-xl-7 -->
             </div><!-- /.row -->

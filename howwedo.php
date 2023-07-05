@@ -4,7 +4,7 @@
        page title
     =========================== -->
     <section class="page-title-layout1 page-title-light pb-0 bg-overlay bg-parallax">
-      <div class="bg-img"><img src="assets/images/page-titles/1.jpg" alt="background"></div>
+      <div class="bg-img"><img src="assets/images/page-titles/How-We-Do.jpg" alt="background"></div>
       <div class="container">
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-12 col-xl-6">
