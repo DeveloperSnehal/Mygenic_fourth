@@ -42,13 +42,13 @@
           <div class="col-sm-12 col-md-12 col-lg-7">
                 <div class="banner-content">
                     <div class="heading-layout2 mb-50">
-                        <h2 class="heading-title">Who Are Third Party Manufacturers?</h2>
-                        <p class="heading-desc">Third-party manufacturers, also known as contract manufacturers, are companies that manufacture products on behalf of another company. In the pharmaceutical industry, third-party manufacturers are often used to produce drugs and other healthcare products.</p>
+                        <h2 class="heading-title">Top Pharmaceutical Contract Manufacturer In India</h2>
+                        <p class="heading-desc">Contract manufacturers, also known as third-party manufacturers, are companies that produce goods for other companies. In the pharmaceutical industry, they are often chosen to make medicines and healthcare products. </p>
                     </div>
                     <div class="accordion" id="accordion1">
                             <div class="accordion-item opened">
-                            <p class="heading-desc">Third-party manufacturers work under a contract with the hiring company to manufacture a product according to their specifications, usually for a fee. The hiring company may provide the raw materials, packaging, and labeling instructions, while the third-party manufacturer provides the facilities, equipment, and labor needed for production.</p><br>
-                            <p class="heading-desc">Using a third-party manufacturer can be a cost-effective way for a company to produce products without having to invest in expensive equipment or facilities. It also allows the company to focus on other aspects of their business, such as marketing and distribution.</p>
+                            <p class="heading-desc">When a company hires a contract manufacturer, they agree on an arrangement where the manufacturer creates a product according to the company's specifications. The hiring company provides the necessary materials, packaging, and labeling instructions, while the contract manufacturer has the facilities, equipment, and workers for production.</p><br>
+                            <p class="heading-desc">Using a contract manufacturer can be advantageous for companies because it helps them save money by avoiding the need to purchase expensive equipment or facilities. It also allows them to focus on other important aspects of their business, such as marketing and distribution.</p>
                             </div><!-- /.accordion-item -->
                     </div><!-- /.accordion -->
                 </div>
@@ -69,16 +69,17 @@
           <div class="col-sm-12 col-md-12 col-lg-7">
                 <div class="banner-content">
                     <div class="heading-layout2 mb-50">
-                        <h2 class="heading-title">Who Can Be The Third Party Pharma Manufacturer?</h2>
-                        <p class="heading-desc">In the pharmaceutical industry, there are many types of companies that can be third-party manufacturers or contract manufacturers. These include:</p>
+                        <h2 class="heading-title">Why Choose Us?</h2>
+                        <p class="heading-desc">In the pharmaceutical industry, there are different types of companies that work as contract manufacturers. Let's explore a few examples:</p>
                     </div>
                     <div class="accordion" id="accordion1">
                             <div class="accordion-item opened">
-                            <p class="heading-desc"><b>Dedicated Contract Manufacturing Organizations (DCMOs):</b> These are specialized companies that solely focus on contract manufacturing for pharmaceutical products. They have extensive experience and expertise in manufacturing drugs, and they offer a wide range of services to their clients.</p><br>
-                            <p class="heading-desc"><b>Contract Development and Manufacturing Organizations (CDMOs):</b> These companies offer a broader range of services, including drug development, clinical trials, and commercial manufacturing. They are often used by smaller companies that do not have the resources or expertise to carry out these activities in-house.</p><br>
-                            <p class="heading-desc"><b>Generics Manufacturing Companies:</b> These companies specialize in manufacturing generic drugs. They often have large-scale manufacturing facilities and can produce a wide range of generic drugs at a lower cost.</p><br>
-                            <p class="heading-desc"><b>Over-the-Counter (OTC) Manufacturing Companies:</b> These companies specialize in manufacturing over-the-counter (OTC) drugs, which are drugs that can be sold without a prescription.</p><br>
-                            <p class="heading-desc"><b>Private Label Manufacturers:</b> These companies manufacture products for other companies under their own label. Private label manufacturers can produce a wide range of products, including pharmaceuticals.</p>
+                            <p class="heading-desc"><b>Dedicated Contract Manufacturing Organizations (DCMOs):</b> These companies specialize in making pharmaceutical products on a contract basis. They have extensive experience and expertise in producing drugs and offer various services to their clients.</p><br>
+                            <p class="heading-desc"><b>Contract Development and Manufacturing Organizations (CDMOs):</b> These companies provide a wider range of services, including drug development, clinical trials, and commercial manufacturing. Smaller companies often use CDMOs when they don't have the resources or knowledge to handle these tasks themselves.</p><br>
+                            <p class="heading-desc"><b>Generics Manufacturing Companies:</b> These companies focus on producing generic drugs. They have large-scale manufacturing facilities and can produce many different types of generic medicines at a lower cost.</p><br>
+                            <p class="heading-desc"><b>Over-the-Counter (OTC) Manufacturing Companies:</b> These companies specialize in making over-the-counter drugs, which are medicines that can be purchased without a prescription.</p><br>
+                            <p class="heading-desc"><b>Private Label Manufacturers:</b> These companies produce items for other companies, but the products carry the brand name of the purchasing company. Private-label manufacturers can make various products, including pharmaceuticals.</p><br>
+                            <p class="heading-desc">To summarize, any company with the necessary knowledge, equipment, and facilities can become a contract manufacturer for pharmaceutical products.</p>
                             </div><!-- /.accordion-item -->
                     </div><!-- /.accordion -->
                 </div>

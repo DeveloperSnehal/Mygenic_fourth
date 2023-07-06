@@ -64,7 +64,7 @@
                   <h4 class="service-title">
                     <a href="contractmanufacturer.php">Manufacturing</a>
                   </h4>
-                  <p class="service-desc">MyGenic Healthcare Private Limited may manufacture a range of pharmaceutical products including tablets, injections, and anti-cancer capsules.</p>
+                  <p class="service-desc">MyGenic Healthcare Private Limited manufactures different types of pharmaceutical products such as tablets, injections, and anti-cancer capsules.</p>
                   <a href="contractmanufacturer.php" class="btn btn-primary">
                     <span>Explore More</span>
                     <i class="icon-arrow-right"></i>
@@ -81,7 +81,7 @@
                   <h4 class="service-title">
                     <a href="leadingpharma.php">Exporting</a>
                   </h4>
-                  <p class="service-desc">By developing effective processes and partnerships, the company can efficiently export their pharmaceutical products to a range of global markets. </p>
+                  <p class="service-desc">By creating efficient methods and forming strong collaborations, the company can easily send its pharmaceutical products to different countries worldwide.</p>
                   <a href="leadingpharma.php" class="btn btn-primary">
                     <span>Explore More</span>
                     <i class="icon-arrow-right"></i>
@@ -98,7 +98,7 @@
                   <h4 class="service-title">
                     <a href="qualitymedicine.php">Quality Control</a>
                   </h4>
-                  <p class="service-desc">MyGenic Healthcare Private Limited likely has a quality control system in place to ensure that their products meet industry standards and regulations.</p>
+                  <p class="service-desc">MyGenic Healthcare Private Limited probably has a system to check the quality of their products. This system helps make sure that their products meet all the rules and requirements set by the industry.</p>
                   <a href="qualitymedicine.php" class="btn btn-primary">
                     <span>Explore More</span>
                     <i class="icon-arrow-right"></i>
@@ -130,10 +130,10 @@
                 <div class="testimonials-container">
                     <!-- Testimonial #1 -->
                     <div class="testimonial-item">
-                      <p>Established at Navi Mumbai (Maharashtra), We,“MyGenic Healthcare Private Limited” are one of the leading Exporter of a premium range of Pharmaceutical Tablets, Pharmaceutical Injection & Anti Cancer Capsules and many more.</p>
-                        <p>MyGenic Healthcare Private Limited is a reputable company that specializes in the production and export of high-quality pharmaceutical products. We are based in Navi Mumbai, Maharashtra, and have gained a strong foothold in the industry through our commitment to providing superior products and services to our clients.</p>
-                        <p>We offer a wide range of pharmaceutical products, including tablets, injections, capsules, and more. Our products are manufactured in state-of-the-art facilities using the latest technology and in strict adherence to industry regulations and quality standards. This ensures that our products are safe, effective, and of the highest quality.</p>
-                        <p>We have experties in pharmaceutical products from 25 years!</p>
+                      <p>We are a company called MyGenic Healthcare Private Limited, located in Navi Mumbai, Maharashtra. We are proud to be a leading exporter of top-quality pharmaceutical products like tablets, injections, anti-cancer capsules, and more.</p>
+                        <p>Our company is well-respected and known for producing and exporting high-quality pharmaceutical items. We have built a strong reputation in the industry by prioritizing superior products and services for our valued clients.</p>
+                        <p>We have a wide variety of pharmaceutical products available, including tablets, injections, capsules, and more. These products are manufactured in advanced facilities using the latest technology. We strictly follow industry regulations and quality standards to ensure that our products are safe, effective, and of the highest quality.</p>
+                        <p><b>We have experties in pharmaceutical products from 25 years!</b></p>
                     </div><!-- /. testimonial-item -->
                     <!-- Testimonial #2 -->
                 </div><!-- /.testimonials-container -->
@@ -238,7 +238,7 @@
       <div class="top-shape"></div>
       <div class="container-fluid">
         <div class="row">
-          <div class="col-12 col-xl-6 banner-img d-flex align-items-center">
+          <div class="col-12 col-xl-6 banner-img d-flex align-items-center" style="min-height: 550px;">
             <div class="bg-img">
               <img src="assets/images/banners/contract-manufacturer.jpg" alt="backgrounds">
             </div>
@@ -248,8 +248,8 @@
             <div class="banner-text">
               <div class="heading-layout2 heading-light">
                 <h3 class="heading-title">WHO WE <span style="color:#ed6f1e;">ARE?</span></h3>
-                <p class="heading-desc mb-40">We are a pharmaceutical company that is committed to improving the health and wellbeing of people globally. Our team of experienced professionals includes scientists, researchers, and pharmaceutical experts who are dedicated to developing innovative solutions to address some of the most pressing healthcare issues of our time.</p>
-                <p class="heading-desc mb-40">We specialize in the development, manufacturing, and distribution of high-quality pharmaceutical products that meet the needs of patients, healthcare providers, and partners worldwide. Our products are made using the latest technologies and adhere to strict quality control measures to ensure safety and efficacy.</p>
+                <p class="heading-desc mb-40">We are a pharmaceutical company focused on making people healthier around the world. Our team consists of experts in science, research, and pharmaceuticals who work together to create new and creative solutions for important healthcare problems.</p>
+                <p class="heading-desc mb-40">We specialize in creating, producing, and delivering excellent pharmaceutical products. These products are made to meet the needs of patients, healthcare providers, and partners all over the globe. We use the latest technologies and strict quality controls to make sure our products are safe and effective.</p>
               </div>
             </div><!-- /.banner-text -->
           </div><!-- /.col-lg-6 -->

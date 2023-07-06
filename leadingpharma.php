@@ -43,21 +43,22 @@
                 <div class="banner-content">
                     <div class="heading-layout2 mb-50">
                         <h2 class="heading-title">How We Became A Top Leading Pharmaceutical Export Company?</h2>
-                        <p class="heading-desc">Becoming a top leading pharmaceutical export company requires a combination of factors, including a strong focus on quality, compliance with regulatory standards, a robust supply chain, and effective marketing and sales strategies. Mygenic Healthcare Private Limited, as a top leading pharmaceutical export company, has achieved this status through a variety of measures.</p>
+                        <p class="heading-desc">Mygenic Healthcare Pvt. Ltd. has become a leading pharmaceutical export company by focusing on important factors. One key factor is our commitment to quality. We make sure our products meet high standards by following strict guidelines from organizations like the FDA and WHO.</p>
                     </div>
                     <div class="accordion" id="accordion1">
                             <div class="accordion-item opened">
-                            <p class="heading-desc">One of the primary reasons for Mygenic Healthcare Private Limited's success as a top leading pharmaceutical export company is our commitment to quality. We follow strict regulatory guidelines set by organizations such as the FDA (Food and Drug Administration) and the WHO (World Health Organization) to ensure that our products meet the highest standards of quality.</p><br>
-                            <p class="heading-desc">Another key factor that has contributed to our success is our robust supply chain. Mygenic Healthcare Private Limited has developed strong partnerships with manufacturers, suppliers, and logistics providers to ensure a smooth and timely delivery of products. We have also established a global distribution network that allows us to reach customers in different regions and markets.</p><br>
-                            <p class="heading-desc">Effective marketing and sales strategies have also played a crucial role in Mygenic Healthcare Private Limited's success as a top leading pharmaceutical export company. We have invested in building strong relationships with customers, including healthcare providers, distributors, and wholesalers, to understand their needs and provide them with the best solutions. We have also adopted innovative marketing strategies, such as digital marketing and social media campaigns, to reach new customers and expand reach.</p><br>
-                            <p class="heading-desc">Finally, Mygenic Healthcare Private Limited's ability to adapt to changing market dynamics has also contributed to our success. We have kept up with the latest industry trends and developments and have continuously evolved product offerings to meet the changing needs of our customers.</p><br>
-                            <p class="heading-desc">In summary, Mygenic Healthcare Private Limited has become a top leading pharmaceutical export company through commitment to quality, robust supply chain, effective marketing and sales strategies, and ability to adapt to changing market dynamics. These factors have allowed us to establish ourselves as a trusted and reliable partner for our customers, and position ourselves as a top player in the pharmaceutical export industry.</p>
+                            <p class="heading-desc">A strong supply chain has also contributed to our success. We have good relationships with manufacturers, suppliers, and logistics providers. This helps us deliver products efficiently and on time. We have also built a global distribution network, reaching customers in different regions and markets.</p><br>
+                            <p class="heading-desc">Effective marketing and sales strategies have played a big role too. We have strong connections with healthcare providers, distributors, and wholesalers. By understanding their needs, we provide the best solutions. We also use digital marketing and social media campaigns to reach new customers and expand our reach.</p><br>
+                            <p class="heading-desc">Adapting to market changes has been important for our success. We stay updated on industry trends and developments. This allows us to improve our products and meet the changing needs of our customers.</p><br>
+                            <p class="heading-desc">In summary, Mygenic Healthcare Pvt. Ltd. has become a leading pharmaceutical export company by focusing on quality, maintaining a strong supply chain, using effective marketing and sales strategies, and adapting to market changes. These factors have made us a trusted partner and positioned us as a top player in the pharmaceutical export industry.</p>
                             </div><!-- /.accordion-item -->
                     </div><!-- /.accordion -->
                 </div>
           </div><!-- /.col-lg-6 -->
           <div class="col-sm-12 col-md-12 col-lg-5 px-0 d-flex justify-content-end">
-             <div class="banner-img"><img src="assets\images\services\service7.png" alt="banner" ></div>
+             <div class="banner-img" style="width:80%;">
+                <img src="assets\images\services\service7.png" alt="banner" >
+            </div>
           </div><!-- /.col-lg-6 -->
         </div><!-- /.row -->
       </div><!-- /.container -->
@@ -67,19 +68,19 @@
       <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-md-12 col-lg-5 px-0 d-flex justify-content-end">
-                <div class="banner-img Height 80%"><img src="assets\images\services\service8.png" alt="banner" style="max-width: 70%;margin-left: 10%;"></div>
+                <div class="banner-img" style="width:90%;"><img src="assets\images\services\service8.png" alt="banner" style="max-width: 70%;margin-left: 10%;"></div>
             </div><!-- /.col-lg-6 -->
           <div class="col-sm-12 col-md-12 col-lg-7">
                 <div class="banner-content">
                     <div class="heading-layout2 mb-50">
                         <h2 class="heading-title">Mygenic Is Iso 9001:2015 Certified</h2>
-                        <p class="heading-desc">ISO 9001:2015 is an international standard that sets out the requirements for a quality management system (QMS). It provides a framework for companies to manage their business processes and ensure that their products and services meet the needs of their customers and other stakeholders. Mygenic Healthcare Private Limited is proud to be ISO 9001:2015 certified, which means that WE have implemented a quality management system that meets the requirements of this standard.</p>
+                        <p class="heading-desc">ISO 9001:2015 is an international standard that helps companies ensure their products and services meet customer needs. At Mygenic Healthcare Pvt. Ltd., we are proud to be ISO 9001:2015 certified, which means we have a quality management system that meets this standard.</p>
                     </div>
                     <div class="accordion" id="accordion1">
                             <div class="accordion-item opened">
-                            <p class="heading-desc">To achieve ISO 9001:2015 certification, Mygenic Healthcare Private Limited underwent a rigorous auditing process to demonstrate that our QMS meets the requirements of the standard. This involved a comprehensive review of our processes, policies, and procedures to ensure that we are effective and efficient in meeting customer needs.</p><br>
-                            <p class="heading-desc">Being ISO 9001:2015 certified demonstrates Mygenic Healthcare Private Limited's commitment to quality and continuous improvement. It also provides assurance to our customers that we have implemented a robust quality management system and dedicated to providing high-quality products and services.</p><br>
-                            <p class="heading-desc">ISO 9001:2015 certification is recognized globally and is often a requirement for companies to do business with other organizations. By obtaining this certification, Mygenic Healthcare Private Limited has positioned as a trusted and reliable partner for our customers, suppliers, and other stakeholders in the pharmaceutical industry.</p><br>
+                            <p class="heading-desc">To earn ISO 9001:2015 certification, we underwent a thorough auditing process. This involved reviewing our processes, policies, and procedures to ensure we are effective and efficient in meeting customer needs.</p><br>
+                            <p class="heading-desc">Being ISO 9001:2015 certified demonstrates our commitment to quality and continuous improvement. It gives our customers confidence that we have a strong quality management system and are dedicated to providing high-quality products and services.</p><br>
+                            <p class="heading-desc">ISO 9001:2015 certification is recognized worldwide and often required for business partnerships. By achieving this certification, Mygenic Healthcare Pvt. Ltd. has established itself as a trusted and reliable partner for customers, suppliers, and others in the pharmaceutical industry.</p><br>
                             </div><!-- /.accordion-item -->
                     </div><!-- /.accordion -->
                 </div>
@@ -95,22 +96,22 @@
                 <div class="banner-content">
                     <div class="heading-layout2 mb-50">
                         <h2 class="heading-title">What Helped Us To Become The Top Leading Pharmaceutical Exporting Company?</h2>
-                        <p class="heading-desc">There are several factors that have helped Mygenic Healthcare Private Limited become a top leading pharmaceutical exporting company:</p>
+                        <p class="heading-desc">There are several reasons why Mygenic Healthcare Pvt. Ltd. has become a leading pharmaceutical exporting company:</p>
                     </div>
                     <div class="accordion" id="accordion1">
                             <div class="accordion-item opened">
-                            <p class="heading-desc">Quality focus: We have a strong focus on quality, which is evident in our adherence to regulatory standards such as WHO and GMP. We ensure that our products meet the highest standards of quality and safety, which has helped us establish trust and credibility with our customers.</p><br>
-                            <p class="heading-desc">Robust supply chain: Mygenic Healthcare Private Limited has built a robust supply chain, which includes partnerships with manufacturers, suppliers, and logistics providers. We have a global distribution network, which enables us to reach customers in different regions and markets, thereby expanding reach and visibility.</p><br>
-                            <p class="heading-desc">Customer-centric approach: Mygenic Healthcare Private Limited has adopted a customer-centric approach, where we prioritize the needs and requirements of our customers. We have established strong relationships with healthcare providers, distributors, and wholesalers, which has helped us understand our customers better and provide us with tailored solutions.</p><br>
-                            <p class="heading-desc">Innovation: We have been innovative in our approach, which has helped us stay ahead of the competition. We have adopted modern marketing techniques, such as digital marketing and social media campaigns, to reach new customers and expand reach.</p><br>
-                            <p class="heading-desc">Adaptability: Mygenic Healthcare Private Limited has shown adaptability in operations, which has helped us keep up with changing market dynamics. We have evolved product offerings to meet the changing needs of customers and have been quick to adopt new technologies and practices.</p><br>
-                            <p class="heading-desc">In summary, Mygenic Healthcare Private Limited's focus on quality, robust supply chain, customer-centric approach, innovation, and adaptability have helped us become a top leading pharmaceutical exporting company. These factors have enabled us to establish ourselves as a trusted and reliable partner for our customers, and position ourselves as a top player in the pharmaceutical export industry.</p>
+                            <p class="heading-desc">Quality focus: We prioritize quality and meet regulatory standards like WHO and GMP. This ensures that our products are safe and reliable, earning the trust of our customers.</p><br>
+                            <p class="heading-desc">Robust supply chain: We have built a strong supply chain through partnerships with manufacturers, suppliers, and logistics providers. Our global distribution network allows us to reach customers worldwide, expanding our presence.</p><br>
+                            <p class="heading-desc">Customer-centric approach: We prioritize our customers by understanding their needs and preferences. Building strong relationships with healthcare providers, distributors, and wholesalers helps us tailor our solutions to their requirements.</p><br>
+                            <p class="heading-desc">Innovation: We embrace innovation to stay ahead of the competition. By using modern marketing techniques like digital marketing and social media campaigns, we connect with new customers and expand our reach.</p><br>
+                            <p class="heading-desc">Adaptability: Mygenic Healthcare Pvt. Ltd. is adaptable to changing market conditions. We adjust our product offerings to meet evolving customer needs and embrace new technologies and practices.</p><br>
+                            <p class="heading-desc">In summary, our focus on quality, strong supply chain, customer-centric approach, innovation, and adaptability have contributed to our success as a leading pharmaceutical exporting company. These factors have established us as a trusted partner and positioned us at the forefront of the pharmaceutical export industry.</p>
                             </div><!-- /.accordion-item -->
                     </div><!-- /.accordion -->
                 </div>
           </div><!-- /.col-lg-6 -->
           <div class="col-sm-12 col-md-12 col-lg-5 px-0 d-flex justify-content-end">
-             <div class="banner-img"><img src="assets\images\services\service9.png" alt="banner"></div>
+             <div class="banner-img" style="width:80%;"><img src="assets\images\services\service9.png" alt="banner"></div>
           </div><!-- /.col-lg-6 -->
         </div><!-- /.row -->
       </div><!-- /.container -->

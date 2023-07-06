@@ -47,8 +47,7 @@
                  <h3 class="heading-title">About  <span style="color:#ed6f1e;">Us</span></h3>
               </div><!-- /heading -->
             <div class="about-Text">
-              <p class="mb-30">We are a leading pharmaceutical company dedicated to providing high-quality products and services to businesses in the healthcare industry. With our extensive expertise, cutting-edge technologies and commitment to excellence, we aim to be your trusted partner in achieving success and improving patient outcomes. <br><br>We are one of the leading Exporter of a premium range of Pharmaceutical Tablets, Pharmaceutical Injection & Anti Cancer Capsules and many more.
-              </p>
+              <p class="mb-30">We are a leading pharmaceutical company that focuses on offering excellent products and services to healthcare organizations. Our goal is to be your trusted partner in achieving success and improving patient results. We achieve this by using our extensive knowledge, advanced technologies, and commitment to delivering the best. <br><br>We have established a reputation as one of the leading exporters of high-quality pharmaceutical tablets, injections, anti-cancer capsules, and other related products. Our products are known for their great quality, and we ensure that they meet the highest standards.</p>
             </div>
           </div><!-- /.col-lg-6 -->
         </div><!-- /.row -->
@@ -64,7 +63,7 @@
         <div class="row">
           <div class="col-12 col-xl-6 banner-img d-flex align-items-center">
             <div class="bg-img">
-              <img src="assets/images/banners/mission.jpg" alt="backgrounds">
+              <img src="assets/images/page-titles/mission.jpg" alt="backgrounds">
             </div>
             <div class="banner-shape"></div>
           </div><!-- /.col-lg-6 -->
@@ -80,7 +79,7 @@
                   </div><!-- /.fancybox-icon -->
                   <div class="fancybox-body">
                     <h4 class="fancybox-title">Our Mission</h4>
-                    <p class="fancybox-desc">Our mission at MyGenic Healthcare Private Limited is to provide high-quality, affordable pharmaceutical products to patients around the world. We are committed to developing innovative solutions to complex health challenges and improving patient outcomes through research and development, clinical trials, and partnerships with healthcare professionals.</p>
+                    <p class="fancybox-desc">At MyGenic Healthcare Pvt. Ltd., we have a simple aim to offer affordable and top-notch pharmaceutical products to people worldwide. We are committed to finding innovative solutions for difficult health problems by conducting research, and clinical trials, and collaborating closely with healthcare experts. Our ultimate mission is to enhance patient outcomes and contribute positively to global healthcare.</p>
                   </div><!-- /.fancybox-body -->
                 </div><!-- /.fancybox-item -->
                 <div class="fancybox-item">
@@ -89,7 +88,7 @@
                   </div><!-- /.fancybox-icon -->
                   <div class="fancybox-body">
                     <h4 class="fancybox-title">Our Vision</h4>
-                    <p class="fancybox-desc">Our vision at MyGenic Healthcare Private Limited is to become a global leader in the pharmaceutical industry, known for our excellence in research and development, quality products, and customer-centric approach. We aim to improve the lives of patients and make a significant contribution to global healthcare through our commitment to innovation, sustainability, and social responsibility.</p>
+                    <p class="fancybox-desc">At MyGenic Healthcare Pvt. Ltd., our goal is to be a global leader in the pharmaceutical industry. We want to be known for our exceptional research, development, and top-quality products. Our main focus is to improve the health of patients and have a positive impact on healthcare worldwide. We are committed to innovation, sustainability, and being socially responsible in everything we do.</p>
                   </div><!-- /.fancybox-body -->
                 </div><!-- /.fancybox-item -->
               </div><!-- /.fancybox-layout2 -->
