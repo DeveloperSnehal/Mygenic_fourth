@@ -398,6 +398,50 @@
       </div><!-- /.container -->
     </section><!-- /.Team layout 2  -->
 
+    <!--------------------Clientels------------------------------------->
+<section id="clientel">
+  <div class="section" style=" background-color:#ffffff">
+    <div class="section_wrapper clearfix">
+      <div class="items_group clientslogo clearfix">
+        <marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();">
+          <div class="col-lg-12">
+            <div class="row" style=" flex-wrap: nowrap;">
+              <img src="assets\assets\clients\zydus.png">
+              <img src="assets\images\clients\LILLY.png">
+              <img src="assets\images\clients\RELIANCE.png">
+              <img src="assets\images\clients\astrazeneca-logo.png">
+              <img src="assets\images\clients\bayer.png">
+              <img src="assets\images\clients\SANOFI.png">
+              <img src="assets\images\clients\NOVARTIS.png">
+              <img src="assets\images\clients\BOEHRINGER.png">
+              <img src="assets\images\clients\natco.png">
+              <img src="assets\images\clients\MSD.png">
+              <img src="assets\images\clients\LUPIN.png">
+              <img src="assets\images\clients\janseen.png">
+              <img src="assets\images\clients\DR.REDDY.png">
+              <img src="assets\images\clients\fresenius kabi.png">
+              <img src="assets\images\clients\ROCHE.png">
+              <img src="assets\images\clients\bharat serum.png">
+              <img src="assets\images\clients\biocon.png">
+              <img src="assets\images\clients\MYLAN.png">
+              <img src="assets\images\clients\WOCKHARDT.png">
+              <img src="assets\images\clients\CIPLA.png">
+              <img src="assets\images\clients\biochem.png">
+              <img src="assets\images\clients\gsk.png">
+              <img src="assets\images\clients\PANACEA.svg">
+              <img src="assets\images\clients\HETERO.png">
+              <img src="assets\images\clients\EMCURE.png">
+              <img src="assets\images\clients\INTAS.png">
+              <img src="assets\images\clients\GILEAD.svg">
+            </div>
+          </div>
+        </marquee>
+      </div>
+    </div>
+  </div>
+</section>
+
+
 
 
 <?php include("footer.php"); ?>

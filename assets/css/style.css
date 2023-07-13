@@ -8065,3 +8065,62 @@ input[type=radio] {
     font-size: 50px;
   }
 }/*# sourceMappingURL=style.css.map */
+
+/***
+
+====================================================================
+	Clients Section
+====================================================================
+
+***/
+
+.clients-section{
+	position:relative;
+	padding:70px 0px 190px;
+}
+
+.clients-section .outer-container{
+	position:relative;
+	padding:0px 60px;
+}
+
+.clients-section .sponsors-outer .owl-dots,
+.clients-section .sponsors-outer .owl-nav{
+	position:relative;
+	display:none;
+}
+
+.clients-section .sponsors-outer .image-box{
+	position:relative;
+	text-align:center;
+	margin:0px;
+}
+
+.clients-section .sponsors-outer .image-box img{
+	max-width:100%;
+	width:auto;
+	opacity:0.5;
+	display:inline-block;
+	-webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+	-webkit-transition:all 300ms ease;
+	-ms-transition:all 300ms ease;
+	-o-transition:all 300ms ease;
+	-moz-transition:all 300ms ease;
+	transition:all 300ms ease;
+
+}
+
+.clients-section .sponsors-outer .image-box img:hover{
+	opacity:1;
+	cursor: col-resize;
+	-webkit-filter: grayscale(0%);
+	filter: grayscale(0%);
+}
+
+#clientel .section .section_wrapper .items_group marquee img{
+	padding: 0 0px 10px;
+	width: 10%;
+	aspect-ratio: 5/2;
+	object-fit: contain;
+  }
