@@ -273,11 +273,11 @@
               <h3 class="testimonial-title">The team at MyGenic Healthcare responded quickly to an urgent project request. Our project timelines were jeopardized by an unforeseen issue with another vendor and MyGenic came to the rescue.</h3>
               <div class="testimonial-meta d-flex align-items-center">
                 <div class="testimonial-thmb">
-                  <img src="assets/images/testimonials/testimonial-1.png" alt="thumb">
+                  <img src="assets/images/testimonials/profile1.png" alt="thumb">
                 </div>
                 <div>
-                  <h4 class="testimonial-meta-title">Jatin Chopra</h4>
-                  <p class="testimonial-meta-desc">Production Executive</p>
+                  <!-- <h4 class="testimonial-meta-title">Jatin Chopra</h4>
+                  <p class="testimonial-meta-desc">Production Executive</p> -->
                 </div>
               </div>
             </div><!-- /. testimonial-item -->
@@ -288,11 +288,11 @@
               <h3 class="testimonial-title">In my first project with MyGenic Healthcare I was so impressed with their responsiveness and scientific approach to issues that I have them at the top of my list for quoting on any work in their wheelhouse.</h3>
               <div class="testimonial-meta d-flex align-items-center">
                 <div class="testimonial-thmb">
-                  <img src="assets/images/testimonials/testimonial-2.png" alt="thumb">
+                  <img src="assets/images/testimonials/profile2.png" alt="thumb">
                 </div>
                 <div>
-                  <h4 class="testimonial-meta-title">Shweta Chavhan</h4>
-                  <p class="testimonial-meta-desc">Analytical Chemist</p>
+                  <!-- <h4 class="testimonial-meta-title">Shweta Chavhan</h4>
+                  <p class="testimonial-meta-desc">Analytical Chemist</p> -->
                 </div>
               </div>
             </div><!-- /. testimonial-item -->
@@ -303,11 +303,11 @@
               <h3 class="testimonial-title">MyGenic Healthcare came to our rescue and allowed us to get our Phase I trial back on track after a well-known CDMO failed to release our CTM. We are now recruiting patients, thanks to MyGenic Healthcare!.</h3>
               <div class="testimonial-meta d-flex align-items-center">
                 <div class="testimonial-thmb">
-                  <img src="assets/images/testimonials/testimonial-3.png" alt="thumb">
+                  <img src="assets/images/testimonials/profile1.png" alt="thumb">
                 </div>
                 <div>
-                  <h4 class="testimonial-meta-title">Nikhil Shinde</h4>
-                  <p class="testimonial-meta-desc">R and D chemist</p>
+                  <!-- <h4 class="testimonial-meta-title">Nikhil Shinde</h4>
+                  <p class="testimonial-meta-desc">R and D chemist</p> -->
                 </div>
               </div>
             </div><!-- /. testimonial-item -->
